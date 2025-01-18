@@ -1,0 +1,2040 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="RIK 1">
+    <display-name lang="el">RIK 1</display-name>
+    <icon src="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51002.png" />
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="RIK 2">
+    <display-name lang="el">RIK 2</display-name>
+    <icon src="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51003.png" />
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="ANT1">
+    <display-name lang="el">ANT1</display-name>
+    <icon src="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51004.png" />
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="OMEGA">
+    <display-name lang="el">OMEGA</display-name>
+    <icon src="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51005.png" />
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="Sigma">
+    <display-name lang="el">Sigma</display-name>
+    <icon src="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51006.png" />
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="Plus">
+    <display-name lang="el">Plus</display-name>
+    <icon src="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51007.png" />
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="ONE CHANNEL CY">
+    <display-name lang="el">ONE CHANNEL CY</display-name>
+    <icon src="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51008.png" />
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="Capital">
+    <display-name lang="el">Capital</display-name>
+    <icon src="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51009.png" />
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="MAD CY">
+    <display-name lang="el">MAD CY</display-name>
+    <icon src="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51010.png" />
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="ALPHA">
+    <display-name lang="el">ALPHA</display-name>
+    <icon src="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51011.png" />
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="Vergina TV">
+    <display-name lang="el">Vergina TV</display-name>
+    <icon src="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51014.png" />
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="Smile TV">
+    <display-name lang="el">Smile TV</display-name>
+    <icon src="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51016.png" />
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="ERT">
+    <display-name lang="el">ERT</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="4E">
+    <display-name lang="el">4E</display-name>
+    <icon src="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51019.png" />
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="RIK HD">
+    <display-name lang="el">RIK HD</display-name>
+    <icon src="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51021.png" />
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="Movies Best HD">
+    <display-name lang="el">Movies Best HD</display-name>
+    <icon src="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51101.png" />
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="FOX HD">
+    <display-name lang="el">FOX HD</display-name>
+    <icon src="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51102.png" />
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="FoxLife HD">
+    <display-name lang="el">FoxLife HD</display-name>
+    <icon src="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51103.png" />
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="Greek Cinema">
+    <display-name lang="el">Greek Cinema</display-name>
+    <icon src="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51106.png" />
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="Cablenet Cinema">
+    <display-name lang="el">Cablenet Cinema</display-name>
+    <icon src="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51111.png" />
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="Novacinema1HD">
+    <display-name lang="el">Novacinema1HD</display-name>
+    <icon src="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51151.png" />
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="Novacinema2HD">
+    <display-name lang="el">Novacinema2HD</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="Novacinema3HD">
+    <display-name lang="el">Novacinema3HD</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="Novacinema4HD">
+    <display-name lang="el">Novacinema4HD</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="Discovery Channel">
+    <display-name lang="el">Discovery Channel</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="National Geographic HD">
+    <display-name lang="el">National Geographic HD</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="Nat Geo Wild HD">
+    <display-name lang="el">Nat Geo Wild HD</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="Animal Planet">
+    <display-name lang="el">Animal Planet</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="Discovery Science">
+    <display-name lang="el">Discovery Science</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="BBC Earth HD">
+    <display-name lang="el">BBC Earth HD</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="History HD">
+    <display-name lang="el">History HD</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="ID">
+    <display-name lang="el">ID</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="RT Doc">
+    <display-name lang="el">RT Doc</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="Disney Channel">
+    <display-name lang="el">Disney Channel</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="Disney Junior">
+    <display-name lang="el">Disney Junior</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="Cartoon Network HD">
+    <display-name lang="el">Cartoon Network HD</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="Boomerang HD">
+    <display-name lang="el">Boomerang HD</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="Baby TV">
+    <display-name lang="el">Baby TV</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="Duck TV">
+    <display-name lang="el">Duck TV</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="World Fashion HD">
+    <display-name lang="el">World Fashion HD</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="E! Entertainment HD">
+    <display-name lang="el">E! Entertainment HD</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="TLC">
+    <display-name lang="el">TLC</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="Food Network HD">
+    <display-name lang="el">Food Network HD</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="BBC Entertainment HD">
+    <display-name lang="el">BBC Entertainment HD</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="TV 5">
+    <display-name lang="el">TV 5</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="TVP">
+    <display-name lang="el">TVP</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="ProTV Int.">
+    <display-name lang="el">ProTV Int.</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="HGTV HD">
+    <display-name lang="el">HGTV HD</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="DW Ger.">
+    <display-name lang="el">DW Ger.</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="Eurosport 1 HD">
+    <display-name lang="el">Eurosport 1 HD</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="Eurosport 2 HD">
+    <display-name lang="el">Eurosport 2 HD</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="Motorvision HD">
+    <display-name lang="el">Motorvision HD</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="Nautical Channel HD">
+    <display-name lang="el">Nautical Channel HD</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="GINX">
+    <display-name lang="el">GINX</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="Cablenet Sports 1HD">
+    <display-name lang="el">Cablenet Sports 1HD</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="Cablenet Sports 2HD">
+    <display-name lang="el">Cablenet Sports 2HD</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="CablenetSports 3HD">
+    <display-name lang="el">CablenetSports 3HD</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="Primetel 1 HD">
+    <display-name lang="el">Primetel 1 HD</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="Cytavision Sports 1HD">
+    <display-name lang="el">Cytavision Sports 1HD</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="Cytavision Sports 2HD">
+    <display-name lang="el">Cytavision Sports 2HD</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="Cytavision Sports 3HD">
+    <display-name lang="el">Cytavision Sports 3HD</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="Cytavision Sports 4HD">
+    <display-name lang="el">Cytavision Sports 4HD</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="Cytavision Sports 5HD">
+    <display-name lang="el">Cytavision Sports 5HD</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="Cytavision Sports 6HD">
+    <display-name lang="el">Cytavision Sports 6HD</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="Cytavision Sports 7HD">
+    <display-name lang="el">Cytavision Sports 7HD</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="Novasports Prime">
+    <display-name lang="el">Novasports Prime</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="Novasports2HD">
+    <display-name lang="el">Novasports2HD</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="Novasports3HD">
+    <display-name lang="el">Novasports3HD</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="Novasports4HD">
+    <display-name lang="el">Novasports4HD</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="Novasports5HD">
+    <display-name lang="el">Novasports5HD</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="NOVASPEX1">
+    <display-name lang="el">NOVASPEX1</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="NOVASPEX2">
+    <display-name lang="el">NOVASPEX2</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="Sky News HD">
+    <display-name lang="el">Sky News HD</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="CNN HD">
+    <display-name lang="el">CNN HD</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="Euronews Gr">
+    <display-name lang="el">Euronews Gr</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="Bloomberg">
+    <display-name lang="el">Bloomberg</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="BBC World">
+    <display-name lang="el">BBC World</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="CNBC">
+    <display-name lang="el">CNBC</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="DW TV">
+    <display-name lang="el">DW TV</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="France 24 EN">
+    <display-name lang="el">France 24 EN</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="Al Jazeera EN">
+    <display-name lang="el">Al Jazeera EN</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="Russia Today">
+    <display-name lang="el">Russia Today</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="France 24 FR">
+    <display-name lang="el">France 24 FR</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="France 24 AR">
+    <display-name lang="el">France 24 AR</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="Al Jazeera AR">
+    <display-name lang="el">Al Jazeera AR</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="Rusiya Al-Yaum">
+    <display-name lang="el">Rusiya Al-Yaum</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="Euronews HD">
+    <display-name lang="el">Euronews HD</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="Classica HD">
+    <display-name lang="el">Classica HD</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="MAD Viral">
+    <display-name lang="el">MAD Viral</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <channel id="MAD Greek?">
+    <display-name lang="el">MAD Greek?</display-name>
+    <url>http://www.cablenet.com.cy</url>
+  </channel>
+  <programme start="20250118033000 +0000" stop="20250118043000 +0000" channel="RIK 1">
+    <title lang="el">Ηλέκτρα(E)</title>
+  </programme>
+  <programme start="20250118043000 +0000" stop="20250118053000 +0000" channel="RIK 1">
+    <title lang="el">Τρικυμία(E)</title>
+  </programme>
+  <programme start="20250118053000 +0000" stop="20250118070000 +0000" channel="RIK 1">
+    <title lang="el">Παραδοσιακή Βραδιά(E)</title>
+    <desc lang="el">Ε’ Κύκλος-Επεισόδιο 17ο.(n)</desc>
+  </programme>
+  <programme start="20250118070000 +0000" stop="20250118080000 +0000" channel="RIK 1">
+    <title lang="el">Γευστικό ταξίδι(E)</title>
+    <desc lang="el">Μέσα από τις ομορφιές της κυπριακής υπαίθρου και τους ανθρώπους της, ανακαλύπτουμε σπάνιες συνταγές και συνθέτουμε τη γαστρονομική κουλτούρα του νησιού μας. Παρουσίαση: Χρίστος Χριστοδούλου Επιμέλεια Παραγωγής-Σκηνοθεσία: Μενέλαος Χατζηστυλλής Α’ Κύκλος-Επεισόδιο 31ο και 32ο «Λάγια».(n)</desc>
+  </programme>
+  <programme start="20250118080000 +0000" stop="20250118093000 +0000" channel="RIK 1">
+    <title lang="el">Περικλής και Εριέττα(E)</title>
+    <desc lang="el">B’ Κύκλος-Επεισόδιο 3o και 4ο «Κατά Φαντασία Θύμα».(n)</desc>
+  </programme>
+  <programme start="20250118093000 +0000" stop="20250118101500 +0000" channel="RIK 1">
+    <title lang="el">Quest For Knowledge(E)(E)</title>
+    <desc lang="el">Σειρά ντοκιμαντέρ κατάλληλη για γενική παρακολούθηση. Επεισόδιο 2ο Η επιστήμη προσπαθεί να ρίξει φως στις ρίζες του Κακού. Επεισόδιο 3ο Η επιστήμη μελετά την επιστήμη του…ψεύδους.(n)</desc>
+  </programme>
+  <programme start="20250118101500 +0000" stop="20250118111500 +0000" channel="RIK 1">
+    <title lang="el">Ο Σκούντρος μου</title>
+    <desc lang="el">Κυπριώτικα σκετς που διαδραματίζονται σε κάποιο χωριό της Κύπρου, και βασίζονται σε ιστορίες των χωριανών. Προβάλλεται ο κόσμος της Κύπρου, παλαιότερος και σύγχρονος, με την ιστορία, τα ήθη και τα έθιμα και τον πολιτισμό. Κατάλληλα για γενική παρακολούθηση.(n)</desc>
+  </programme>
+  <programme start="20250118111500 +0000" stop="20250118120000 +0000" channel="RIK 1">
+    <title lang="el">Αθλητικό Ρετρό</title>
+    <desc lang="el">Ντοκιμαντέρ αθλητικού περιεχομένου. Η εκπομπή κάνει αναδρομή στο παρελθόν προβάλλοντας τα αθλήματα και τις ρίζες τους στην Κύπρο. Παρουσιάζει την σύνδεση του αθλητισμού με τον κυπριακό λαό και την ιστορία του στα πολιτικά και πολιτιστικά δρώμενα. Έρευνα-Παρουσίαση: Γιώργος Μελετίου Σκηνοθεσία: Χρίστος Θεοχαρίδης Έτος Παραγωγής ΡΙΚ 2007 Α’ Κύκλος-Επεισόδιο 17ο «Ανδρέας Πάκκος» Βιογραφικό ντοκιμαντέρ του ποδοσφαιριστή Ανδρέα Πάκκου.(n)</desc>
+  </programme>
+  <programme start="20250118120000 +0000" stop="20250118123000 +0000" channel="RIK 1">
+    <title lang="el">Ειδήσεις</title>
+    <desc lang="el">10/13/24.(n)</desc>
+  </programme>
+  <programme start="20250118123000 +0000" stop="20250118130000 +0000" channel="RIK 1">
+    <title lang="el">Κύπρος το Μεγαλείο σου(E)</title>
+    <desc lang="el">Α’ Κύκλος-Επεισόδιο 15ο.(n)</desc>
+  </programme>
+  <programme start="20250118130000 +0000" stop="20250118133000 +0000" channel="RIK 1">
+    <title lang="el">Μαζί/Birlikte</title>
+    <desc lang="el">Μαζί χτίζουμε ένα ειρηνικό μέλλον. Μαζί ονειρευόμαστε για μια κοινή πατρίδα. Η δικοινοτική εκπομπή του ΡΙΚ για αλληλοκατανόηση και συνύπαρξη. Κατάλληλη για γενική παρακολούθηση. Επιμέλεια Παραγωγής –Σκηνοθεσία: Βασβί Τσιφτσίογλου και Γιελίζ Σιουκρού ΣΤ’ Κύκλος-Επεισόδιο 10ο.(n)</desc>
+  </programme>
+  <programme start="20250118133000 +0000" stop="20250118140000 +0000" channel="RIK 1">
+    <title lang="el">Κύπριοι του Κόσμου</title>
+    <desc lang="el">Το ΡΙΚ, μέσω του δορυφορικού του προγράμματος, συμπορεύεται και επικοινωνεί με το εκλεκτό κομμάτι της πατρίδας μας που ζει στο εξωτερικό. Ως πλατφόρμα επικοινωνίας με τους απόδημους μας, η εκπομπή «Κύπριοι του Κόσμου» ρίχνει φως στην καθημερινότητα, τη δράση, τη δημιουργία, τα επιτεύγματα και τις διακρίσεις των Κυπρίων της Διασποράς. Οι Κύπριοι του Κόσμου αφηγούνται τη δική τους ανθρώπινη ιστορία και μοιράζονται την επιθυμία τους για το νόστιμο ήμαρ. Ι’ Κύκλος-Επεισόδιο 16o.(n)</desc>
+  </programme>
+  <programme start="20250118140000 +0000" stop="20250118150000 +0000" channel="RIK 1">
+    <title lang="el">Σε Προσκυνώ Γλώσσα</title>
+    <desc lang="el">Ο Καθηγητής Γλωσσολογίας Γεώργιος Μπαμπινιώτης συνομιλεί με την δημοσιογράφο και κλασική φιλόλογο Βίκυ Φλέσσα για θέματα που άπτονται της γλωσσικής παιδείας και της σχέσης μας με την ελληνική γλώσσα. Δ’ Κύκλος-Επεισόδιο 17ο Η Δομή της γλώσσας μας. Τα μέρη του λόγου: Το ρήμα.(n)</desc>
+  </programme>
+  <programme start="20250118150000 +0000" stop="20250118155000 +0000" channel="RIK 1">
+    <title lang="el">Πολιτιστικό Ημερολόγιο</title>
+    <desc lang="el">Η εβδομαδιαία εκπομπή Πολιτιστικό Ημερολόγιο" έχει στόχο να δώσει βήμα στους Κύπριους καλλιτέχνες ώστε να προωθήσουν τη δουλειά τους και παράλληλα να εμπλέξει το κοινό της Κύπρου σε περισσότερες δραστηριότητες καλλιτεχνικής και πολιτιστικής φύσεως. Παρουσίαση: Φανή Παπαμιχαήλ Αρχισυνταξία: Αλεξία Καρακάννα Επιμέλεια Παραγωγής-Σκηνοθεσία: Μιχάλης Ασιήκκας. Β’ Κύκλος-Επεισόδιο 14ο".(n)</desc>
+  </programme>
+  <programme start="20250118155000 +0000" stop="20250118160000 +0000" channel="RIK 1">
+    <title lang="el">Λιλιπούτειες Ειδήσεις</title>
+    <desc lang="el">Οι Ειδήσεις με μία άλλη ματιά ,δοσμένες από τους μικρούς μας φίλους για μικρούς και μεγάλους! Συνεργασία: Κυριάκος Παστίδης Επιμέλεια Παραγωγής –Σκηνοθεσία: Βούλα Αντωνίου Α’ Κύκλος-Επεισόδιο 33ο.(n)</desc>
+  </programme>
+  <programme start="20250118160000 +0000" stop="20250118163000 +0000" channel="RIK 1">
+    <title lang="el">Ειδήσεις</title>
+    <desc lang="el">10/13/24.(n)</desc>
+  </programme>
+  <programme start="20250118163000 +0000" stop="20250118170000 +0000" channel="RIK 1">
+    <title lang="el">Γευστικό Ταξίδι</title>
+    <desc lang="el">Μέσα από τις ομορφιές της κυπριακής υπαίθρου και τους ανθρώπους της, ανακαλύπτουμε σπάνιες συνταγές και συνθέτουμε τη γαστρονομική κουλτούρα του νησιού μας. Α’ Κύκλος-Επεισόδιο 33ο «Ασκάς» Α’ Μέρος.(n)</desc>
+  </programme>
+  <programme start="20250118170000 +0000" stop="20250118180000 +0000" channel="RIK 1">
+    <title lang="el">Περικλής τζι Εριέττα</title>
+    <desc lang="el">Όταν ο Περικλής συνάντησε την Εριέττα, η αντιπάθεια ήταν αμοιβαία. Η μεταξύ τους όμως συνεργασία στέφθηκε με επιτυχία. Η φήμη τους έφτασε σε όλα τα χωριά και η εξιχνίαση εγκλημάτων έγινε ρουτίνα γι’ αυτούς. Εξαφανίσεις, παρακολουθήσεις, απαγωγές, δολοφονίες, κλοπές, μοιχείες, αρχαιοκαπηλίες, απώλεια εικονισμάτων, εικονικοί θάνατοι, επίλυση διαφόρων για περιουσίες, απειλές, εκβιασμοί, άγνωστες αποστολές γραμμάτων, δηλητηριάσεις, απόπειρες εμπρησμών, πλαστοπροσωπία κτλ.(n)</desc>
+  </programme>
+  <programme start="20250118180000 +0000" stop="20250118190000 +0000" channel="RIK 1">
+    <title lang="el">Ειδήσεις</title>
+    <desc lang="el">10/13/24.(n)</desc>
+  </programme>
+  <programme start="20250118190000 +0000" stop="20250118203000 +0000" channel="RIK 1">
+    <title lang="el">Στων Αστεριών τις Νότες</title>
+    <desc lang="el">Η εκπομπή Στων Αστεριών Τις Νότες" είναι ένα ξεχωριστό μουσικό ταξίδι, με θεματικά αφιερώματα σε καταξιωμένους καλλιτέχνες που έχουν αφήσει το στίγμα τους στη μουσική ιστορία και παράδοση. Μοναδικές ερμηνείες και διασκευές αγαπημένων τραγουδιών. Παρουσίαση: Βασιλική Χατζηαδάμου - Χριστόδουλος Χριστοδούλου Μουσική Επιμέλεια: Σάββας Χρυσάνθου Επιμέλεια Παραγωγής –Σκηνοθεσία: Στέφανος Φαρμακάς Α’ Κύκλος-Επεισόδιο 15ο".(n)</desc>
+  </programme>
+  <programme start="20250118203000 +0000" stop="20250118210000 +0000" channel="RIK 1">
+    <title lang="el">Τίκκι Τόκκο</title>
+    <desc lang="el">Η εκπομπή θα φιλοξενεί στο στούντιο καλεσμένους από τον καλλιτεχνικό χώρο ή και από τον χώρο της παράδοσης. Με χιουμοριστικό χαρακτήρα οι καλεσμένοι θα ερωτώνται για κυπριακές λέξεις και θα καλούνται μέσα από παιχνίδια τύπου Ταμπού (αλα κυπριακα) η και τσιαττιστά να δημιουργήσουν με τις συγκεκριμένες λέξεις δικές τους ρίμες, πάντα με χαρούμενη και παιχνιδιάρικη διάθεση. Η εκπομπή θα εμπλουτιστεί με γκάλοπ από εξωτερικούς χώρους όπου ο κόσμος θα απαντά για τη σημασία των λέξεων.(n)</desc>
+  </programme>
+  <programme start="20250118210000 +0000" stop="20250118220000 +0000" channel="RIK 1">
+    <title lang="el">Πολιτιστικό Ημερολόγιο(E)</title>
+    <desc lang="el">10/13/24.(n)</desc>
+  </programme>
+  <programme start="20250118220000 +0000" stop="20250118230000 +0000" channel="RIK 1">
+    <title lang="el">Quest for Knowledge(E)</title>
+  </programme>
+  <programme start="20250118230000 +0000" stop="20250119000000 +0000" channel="RIK 1">
+    <title lang="el">Ειδήσεις(E)</title>
+    <desc lang="el">10/13/24.(n)</desc>
+  </programme>
+  <programme start="20250118033000 +0000" stop="20250118043000 +0000" channel="RIK 2">
+    <title lang="el">Wild at Heart (E)</title>
+  </programme>
+  <programme start="20250118043000 +0000" stop="20250118051500 +0000" channel="RIK 2">
+    <title lang="el">Wild at Heart</title>
+    <desc lang="el">Οικογενειακή σειρά κατάλληλη για γενική παρακολούθηση Β’ Κύκλος Επ 8 (επανάληψη).(n)</desc>
+  </programme>
+  <programme start="20250118051500 +0000" stop="20250118061000 +0000" channel="RIK 2">
+    <title lang="el">Τα Οκτώ παιδιά μου (Eight is Enough)</title>
+    <desc lang="el">Η κλασσική οικογενειακή σειρά Κατάλληλη για γενική παρακολούθηση Γ’ Κύκλος Επ 21 (επανάληψη).(n)</desc>
+  </programme>
+  <programme start="20250118061000 +0000" stop="20250118063000 +0000" channel="RIK 2">
+    <title lang="el">Ούμκα (Oomka)</title>
+    <desc lang="el">Σειρά κινουμένων σχεδίων, μεταγλωττισμένη στα ελληνικά Επεισόδιο 8 &amp; 9 &amp; 10.(n)</desc>
+  </programme>
+  <programme start="20250118063000 +0000" stop="20250118065500 +0000" channel="RIK 2">
+    <title lang="el">Yeti Tales</title>
+    <desc lang="el">Σειρά κινουμένων σχεδίων, μεταγλωττισμένη στα ελληνικά Επεισόδιο 8 &amp; 9 &amp; 10.(n)</desc>
+  </programme>
+  <programme start="20250118065500 +0000" stop="20250118071000 +0000" channel="RIK 2">
+    <title lang="el">Bluey</title>
+    <desc lang="el">Σειρά κινουμένων σχεδίων, μεταγλωττισμένη στα ελληνικά Επεισόδιο 35 &amp; 36.(n)</desc>
+  </programme>
+  <programme start="20250118071000 +0000" stop="20250118073500 +0000" channel="RIK 2">
+    <title lang="el">Μάγια η Μέλισσα (Maya the Bee)</title>
+    <desc lang="el">Σειρά κινουμένων σχεδίων μεταγλωττισμένη στα ελληνικά Επεισόδια 31 &amp; 32 (2η σειρά).(n)</desc>
+  </programme>
+  <programme start="20250118073500 +0000" stop="20250118080000 +0000" channel="RIK 2">
+    <title lang="el">Χάιντι (Heidi)</title>
+    <desc lang="el">Σειρά κινουμένων σχεδίων μεταγλωττισμένη στα ελληνικά Επεισόδιο 16.(n)</desc>
+  </programme>
+  <programme start="20250118080000 +0000" stop="20250118081500 +0000" channel="RIK 2">
+    <title lang="el">Οι Μόνσικιτς (Monsikids )</title>
+    <desc lang="el">Σειρά κινουμένων σχεδίων, μεταγλωττισμένη στα ελληνικά Επεισόδιο 13 &amp; 14.(n)</desc>
+  </programme>
+  <programme start="20250118081500 +0000" stop="20250118083000 +0000" channel="RIK 2">
+    <title lang="el">Η Μάρσι και ο μαγεμένος γάτος (Meowgic)</title>
+    <desc lang="el">Σειρά κινουμένων σχεδίων, μεταγλωττισμένη στα ελληνικά Επεισόδιο 41 &amp; 42.(n)</desc>
+  </programme>
+  <programme start="20250118083000 +0000" stop="20250118090000 +0000" channel="RIK 2">
+    <title lang="el">Zig’s Space Rangers (Mighty Paws)</title>
+    <desc lang="el">Σειρά κινουμένων σχεδίων, μεταγλωττισμένη στα ελληνικά Επεισόδιο 17 &amp; 18.(n)</desc>
+  </programme>
+  <programme start="20250118090000 +0000" stop="20250118093500 +0000" channel="RIK 2">
+    <title lang="el">ΠΟΠ ΚΟΡΝ παίζω και μαθαίνω</title>
+    <desc lang="el">Το παιδικό πρόγραμμα συνεχίζει για άλλη μια χρονιά με τους μικρούς και μεγάλους μας φίλους στην οθόνη του ΡΙΚ. Κατάλληλο για γενική παρακολούθηση Έχοντας ως βάση το αναλυτικό πρόγραμμα του Υπουργείου Παιδείας, Αθλητισμού και Νεολαίας, συνδυάζει την εκπαίδευση με την ψυχαγωγία μέσα από πολλές θεματικές ενότητες. Μια ευχάριστη παρέα που εκτός από το να κρατά συντροφιά στα παιδιά, ανοίγει ορίζοντες στον κόσμο της μάθησης και της ζωής.(n)</desc>
+  </programme>
+  <programme start="20250118093500 +0000" stop="20250118100000 +0000" channel="RIK 2">
+    <title lang="el">The Looney Tunes Show</title>
+    <desc lang="el">Σειρά κινουμένων σχεδίων, μεταγλωττισμένη στα ελληνικά Επεισόδιο 16.(n)</desc>
+  </programme>
+  <programme start="20250118100000 +0000" stop="20250118102500 +0000" channel="RIK 2">
+    <title lang="el">Τα Στρουμφάκια (The Smurfs)</title>
+    <desc lang="el">Σειρά κινουμένων σχεδίων μεταγλωττισμένη στα ελληνικά Β’ Κύκλος Επεισόδια 41 &amp; 42.(n)</desc>
+  </programme>
+  <programme start="20250118102500 +0000" stop="20250118103500 +0000" channel="RIK 2">
+    <title lang="el">Ούμκα (Oomka)</title>
+    <desc lang="el">Σειρά κινουμένων σχεδίων, μεταγλωττισμένη στα ελληνικά Επεισόδιο 8 &amp; 9.(n)</desc>
+  </programme>
+  <programme start="20250118103500 +0000" stop="20250118110500 +0000" channel="RIK 2">
+    <title lang="el">Yeti Tales</title>
+    <desc lang="el">Σειρά κινουμένων σχεδίων, μεταγλωττισμένη στα ελληνικά Επεισόδιο 8 &amp; 9 &amp; 10.(n)</desc>
+  </programme>
+  <programme start="20250118110500 +0000" stop="20250118113000 +0000" channel="RIK 2">
+    <title lang="el">Μάγια η Μέλισσα (Maya the Bee)</title>
+    <desc lang="el">Σειρά κινουμένων σχεδίων μεταγλωττισμένη στα ελληνικά Επεισόδια 31 &amp; 32 (2η σειρά).(n)</desc>
+  </programme>
+  <programme start="20250118113000 +0000" stop="20250118115500 +0000" channel="RIK 2">
+    <title lang="el">Χάιντι (Heidi)</title>
+    <desc lang="el">Σειρά κινουμένων σχεδίων μεταγλωττισμένη στα ελληνικά Επεισόδιο 16.(n)</desc>
+  </programme>
+  <programme start="20250118115500 +0000" stop="20250118120500 +0000" channel="RIK 2">
+    <title lang="el">Bluey</title>
+    <desc lang="el">Σειρά κινουμένων σχεδίων, μεταγλωττισμένη στα ελληνικά Επεισόδιο 31 &amp; 32.(n)</desc>
+  </programme>
+  <programme start="20250118120500 +0000" stop="20250118122000 +0000" channel="RIK 2">
+    <title lang="el">Οι Μόνσικιτς (Monsikids )</title>
+    <desc lang="el">Σειρά κινουμένων σχεδίων, μεταγλωττισμένη στα ελληνικά Επεισόδιο 13 &amp; 14.(n)</desc>
+  </programme>
+  <programme start="20250118122000 +0000" stop="20250118123500 +0000" channel="RIK 2">
+    <title lang="el">Η Μάρσι και ο μαγεμένος γάτος (Meowgic)</title>
+    <desc lang="el">Σειρά κινουμένων σχεδίων, μεταγλωττισμένη στα ελληνικά Επεισόδιο 41 &amp; 42.(n)</desc>
+  </programme>
+  <programme start="20250118123500 +0000" stop="20250118124500 +0000" channel="RIK 2">
+    <title lang="el">Zig’s Space Rangers (Mighty Pawa)</title>
+    <desc lang="el">Σειρά κινουμένων σχεδίων, μεταγλωττισμένη στα ελληνικά Επεισόδιο 17.(n)</desc>
+  </programme>
+  <programme start="20250118124500 +0000" stop="20250118131000 +0000" channel="RIK 2">
+    <title lang="el">Τα Στρουμφάκια (The Smurfs)</title>
+    <desc lang="el">Σειρά κινουμένων σχεδίων μεταγλωττισμένη στα ελληνικά Β’ Κύκλος Επεισόδια 41 &amp; 42.(n)</desc>
+  </programme>
+  <programme start="20250118131000 +0000" stop="20250118140000 +0000" channel="RIK 2">
+    <title lang="el">Wild at Heart</title>
+    <desc lang="el">Οικογενειακή σειρά κατάλληλη για γενική παρακολούθηση Η ιστορία και οι περιπέτειες μιας οικογένειας που αποφασίζει να αφήσει την Αγγλία και να εγκατασταθεί στη Νότια Αφρική για να δημιουργήσει εκεί μια κτηνιατρική κλινική με στόχο να βοηθά και να προφυλάσσει τα ζώα που απειλούνται ή και που χρειάζονται βοήθεια B’ Κύκλος Επ 9 Ντανη και Ντουπλεσι ελέγχουν, παρά τους κινδύνους που καραδοκούν, τη γονιμότητα των λιονταριών.(n)</desc>
+  </programme>
+  <programme start="20250118140000 +0000" stop="20250118143000 +0000" channel="RIK 2">
+    <title lang="el">Full House</title>
+    <desc lang="el">Η κλασσική σειρά κωμωδιών που αφηγείται την ιστορία ενός χήρου πατέρα που επιστρατεύει τους 2 καλύτερους του φίλο για να βοηθήσουν στο μεγάλωμα των τριών κοριτσιών του. βασισμένη στη ζωή του τηλεοπτικού παρουσιαστή Danny Tanner. Κατάλληλη για γενική παρακολούθηση 7ος Κύκλος Επ 12 Τα παιδιά του Τζέσι και της Ρεμπέκα αρνούνται να παίζουν με άλλα παιδιά, έτσι οι γονείς οργανώνονται για να βοηθήσουν στην κοινωνικοποίηση των παιδιών.(n)</desc>
+  </programme>
+  <programme start="20250118143000 +0000" stop="20250118150000 +0000" channel="RIK 2">
+    <title lang="el">Step by Step</title>
+    <desc lang="el">Κλασσική κωμική, οικογενειακή σειρά ,κατάλληλη για γενική παρακολούθηση 7ος ’ Κύκλος Επ 15 Ο Τζέϊ Τι και ο Ριτς σχεδιάζουν ένα ταξίδι για σκι και ψάχνουν έναν εύκολο και γρήγορο τρόπο να βρουν τα λεφτά για τα έξοδα Πρωταγωνιστούν : Patrick Duffy, Suzanne Somers, Staci Keanan, Brandon Call κ.α.(n)</desc>
+  </programme>
+  <programme start="20250118150000 +0000" stop="20250118155000 +0000" channel="RIK 2">
+    <title lang="el">Τα Οκτώ παιδιά μου (Eight is Enough)</title>
+    <desc lang="el">Η κλασσική οικογενειακή σειρά βασισμένη στο βιβλίο του Τhomas Braden που περιγράφει τη ζωή του χήρου Tom Bradford και των οκτώ παιδιών του. Κατάλληλη για γενική παρακολούθηση Γ’ Κύκλος Επ 22 Όταν ο Νίκολας γνωρίζει τον Μπόμπι, ένα μοναχικό ορφανό αγόρι που περνάνε αρκετό χρόνο μαζί, τότε κάποιοι φίλοι της Άμπυ ενδιαφέρονται να τον υιοθετήσουν. (επανάληψη).(n)</desc>
+  </programme>
+  <programme start="20250118155000 +0000" stop="20250118163500 +0000" channel="RIK 2">
+    <title lang="el">Ice Age : A Frozen World</title>
+    <desc lang="el">Ντοκιμαντέρ 3 επεισοδίων κατάλληλο για γενική παρακολούθηση Ένα συναρπαστικό ταξίδι στην Εποχή των Παγετώνων. Τα κρυμμένα μυστικά της Εποχής των Παγετώνων και πώς αυτά διαμόρφωσαν τον κόσμο στον οποίο ζούμε σήμερα. Η σειρά παρουσίαζει την άνοδο των μεγαθηρίων, από τα μαλλιαρά μαμούθ μέχρι τα αιλουροειδή Μαχαιρόδοντες, την ιστορία των Νεάντερταλ εναντίον των Homo Sapiens και την προειδοποίηση ι η υπερθέρμανση του πλανήτη θα μπορούσε να προκαλέσει την επόμενη Εποχή των Παγετώνων. Επ 1.(n)</desc>
+  </programme>
+  <programme start="20250118163500 +0000" stop="20250118172000 +0000" channel="RIK 2">
+    <title lang="el">The Murdochs: Empire of Influence</title>
+    <desc lang="el">Σειρά ντοκιμαντέρ 7 επεισοδίων παραγωγής CNN.(n)</desc>
+  </programme>
+  <programme start="20250118172000 +0000" stop="20250118174000 +0000" channel="RIK 2">
+    <title lang="el">Ο Δρόμος Έχει τη Δική του Ιστορία</title>
+    <desc lang="el">10/13/24.(n)</desc>
+  </programme>
+  <programme start="20250118174000 +0000" stop="20250118175000 +0000" channel="RIK 2">
+    <title lang="el">Ειδήσεις στην αγγλική</title>
+    <desc lang="el">10/13/24.(n)</desc>
+  </programme>
+  <programme start="20250118175000 +0000" stop="20250118180000 +0000" channel="RIK 2">
+    <title lang="el">Ειδήσεις στην τουρκική</title>
+    <desc lang="el">10/13/24.(n)</desc>
+  </programme>
+  <programme start="20250118180000 +0000" stop="20250118190000 +0000" channel="RIK 2">
+    <title lang="el">Κεντρικό Δελτίο Ειδήσεων στη Νοηματική</title>
+    <desc lang="el">10/13/24.(n)</desc>
+  </programme>
+  <programme start="20250118190000 +0000" stop="20250118203000 +0000" channel="RIK 2">
+    <title lang="el">A Bet with the Matchmaker</title>
+    <desc lang="el">Ευχάριστη, ρομαντική τηλεταινία, κατάλληλη για γενική παρακολούθηση. Η Κέϊτ κινδυνεύει να χάσει τη δουλειά της στην εφημερίδα, όπου διατηρεί μια στήλη για γνωριμίες και αισθηματικές σχέσεις. Ισχυρός επαγγελματικός της αντίπαλος είναι ο υπερόπτης Τζόσεφ, ο οποίος διεκδικεί τη θέση της Κέϊτ στην εφημερίδα αλλά και βάζει προσωπικό στοίχημα ότι μπορεί να της βρει το τέλειο ταίρι! Πρωταγωνιστούν : Emily Alatalo, Brett Donahue, Steffi Didomenicantonio Σκηνοθεσία : Brian Roberts.(n)</desc>
+  </programme>
+  <programme start="20250118203000 +0000" stop="20250118221500 +0000" channel="RIK 2">
+    <title lang="el">Lost City of Z</title>
+    <desc lang="el">Η αληθινή ιστορία του Βρετανού εξερευνητή Percy Fawcett ο οποίος στις αρχές του 20ου αιώνα βάζει στόχο ζωής την ανακάλυψη της Χαμένης Πόλης του Ζ στον Αμαζόνιο. Η ταινία είναι βασισμένη στο ομότιτλο βιβλίο του David Grann.(n)</desc>
+  </programme>
+  <programme start="20250118221500 +0000" stop="20250118223000 +0000" channel="RIK 2">
+    <title lang="el">Ειδήσεις στην αγγλική και Ειδήσεις στην τουρκική (επανάληψή)</title>
+  </programme>
+  <programme start="20250118033000 +0000" stop="20250118041500 +0000" channel="ANT1">
+    <title lang="el">ΝΙΩΣΕ ΜΕ II (E)</title>
+    <desc lang="el">H Μαρίνα είναι δασκάλα και παντρεμένη με τον Γιώργο που είναι αρχιτέκτονας και διατηρεί δικό του γραφείο. Όταν ανακαλύπτουν ότι δεν μπορούν να κάνουν παιδί καταφεύγουν στον μοναδικό τρόπο που τους απομένει για να γίνουν γονείς. Την εξωσωματική κύηση με παρένθετη μητέρα. Ο πατέρας της Γιάννης, στρατιωτικός εν αποστρατεία στην προσπάθεια του να τη βοηθήσει ασκεί πίεση στη αδελφή της Μαρίνας, την κόρη του Άννα να γίνει η παρένθετη μητέρα.(n)</desc>
+  </programme>
+  <programme start="20250118041500 +0000" stop="20250118051000 +0000" channel="ANT1">
+    <title lang="el">Daddy Cool II (E)</title>
+    <desc lang="el">Ο Μάξιμος είναι ιδιοκτήτης του μπιστρό "Mama's". Το χόμπι του Μάξιμου είναι να παίζει μπάσκετ μαζί με τον αδελφό του και τον μπαμπά του, ένας τρόπος εκτόνωσης και διασκέδασης για εκείνον. Ο Μάξιμος αντιμετωπίζει ψύχραιμα οποιαδήποτε δυσκολία της ζωής του και προσπαθεί να βλέπει τα πράγματα με θετική άποψη. Όλα αυτά βέβαια μέχρι τη στιγμή που η γυναίκα του, η Αγγέλα, μένει έγκυος. Όμως, η Αγγέλα δεν βλέπει τα πράγματα με τον ίδιο τρόπο.(n)</desc>
+  </programme>
+  <programme start="20250118051000 +0000" stop="20250118060000 +0000" channel="ANT1">
+    <title lang="el">ΦΡΕΝΤΟ ΚΑΠΟΥΤΣΙΝΟ (E)</title>
+    <desc lang="el">Στην πλατεία Ελπίδας η καφετέρια «Φρέντο Καπουτσίνο» ανοίγει με συνιδιοκτήτες 4 ξαδέλφια των οποίων οι πατεράδες μεγάλωσαν στην Αμμόχωστο, από την οποία έφυγαν πρόσφυγες το 1974 και σκόρπισαν στις τέσσερις άκρες της Κύπρου.Τον Σάκη, από το Παραλίμνι, τον Κλεόπα από την Πάφο, τη Γενοβέφα από τη Λεμεσό και τον Φώτη από τη Λευκωσία. Τα 4 ξαδέλφια,οι φίλοι και οι γείτονές στην πλατεία, διαφωνούν, τσακώνονται, αγαπιούνται και υπόσχονται να μας χαρίσουν γέλιο.(n)</desc>
+  </programme>
+  <programme start="20250118060000 +0000" stop="20250118065000 +0000" channel="ANT1">
+    <title lang="el">ΔΕΙΞΕ ΜΟΥ ΤΟ ΦΙΛΟ ΣΟΥ ΙΙ (E)</title>
+    <desc lang="el">Ο Αγαμέμνονας και ο Αχιλλέας είναι δυο πρώην αδελφικοί φίλοι και νυν εχθροί, αφότου ο Αγαμέμνονας, έπειτα από πιέσεις των γονιών του, παντρεύτηκε το κορίτσι του Αχιλλέα, την Δέσποινα. Είναι και οι δυο ιδιοκτήτες δυο μεγάλων εργοληπτικών εταιριών, οι οποίες ανταγωνίζονται γενικώς. Η μοίρα όμως, που συνήθως δρα ανεξάρτητα από τη βούληση των ανθρώπων, θα τους μπλέξει σε μεγάλες και κωμικές περιπέτειες, με πρωταγωνιστές, όχι μόνο τους ίδιους αλλά και τα παιδιά τους.(n)</desc>
+  </programme>
+  <programme start="20250118065000 +0000" stop="20250118105000 +0000" channel="ANT1">
+    <title lang="el">Weekenders Live</title>
+  </programme>
+  <programme start="20250118105000 +0000" stop="20250118113000 +0000" channel="ANT1">
+    <title lang="el">ΥΓΕΙΑ ΠΑΝΩ ΑΠ' ΌΛΑ Xiii</title>
+  </programme>
+  <programme start="20250118113000 +0000" stop="20250118122000 +0000" channel="ANT1">
+    <title lang="el">Rouk Zouk VIII (E)</title>
+  </programme>
+  <programme start="20250118122000 +0000" stop="20250118133000 +0000" channel="ANT1">
+    <title lang="el">Rouk Zouk VIII (E)</title>
+  </programme>
+  <programme start="20250118133000 +0000" stop="20250118150000 +0000" channel="ANT1">
+    <title lang="el">ΓΑΜΟΣ ΜΕ ΤΑ ΟΛΑ ΤΟΥ (E)</title>
+    <desc lang="el">Μετά το χορό του Ησαΐα και τον ειδυλλιακό μήνα του μέλιτος, όταν ένα ζευγάρι αρχίζει πια την κοινή του ζωή, τα πράγματα σπάνια είναι όπως τα περιγράφουν οι ταινίες και τα φωτορομάντζα. Μια ομάδα ικανών σεναριογράφων υπογράφει τις αυτοτελείς ιστορίες αυτής της χιουμοριστικής σειράς δίνοντας μας ρεαλιστικές μα και ξεκαρδιστικές σκηνές του έγγαμου βίου, ο οποίος ξεκινάει συνήθως από εκεί που τελειώνουν τα κινηματογραφικά happy end.(n)</desc>
+  </programme>
+  <programme start="20250118150000 +0000" stop="20250118160000 +0000" channel="ANT1">
+    <title lang="el">5X5 Special Yr3 (E)</title>
+  </programme>
+  <programme start="20250118160000 +0000" stop="20250118161500 +0000" channel="ANT1">
+    <title lang="el">ΤΑ ΝΕΑ ΣΕ 10'</title>
+    <desc lang="el">10/09/24.(n)</desc>
+  </programme>
+  <programme start="20250118161500 +0000" stop="20250118164000 +0000" channel="ANT1">
+    <title lang="el">…συνέχεια 5X5 Special Yr3 (E)</title>
+  </programme>
+  <programme start="20250118164000 +0000" stop="20250118181500 +0000" channel="ANT1">
+    <title lang="el">Η ΚΟΡΗ ΜΟΥ Η ΣΟΣΙΑΛΙΣΤΡΙΑ</title>
+    <desc lang="el">Η κόρη ενός εργοστασιάρχη ερωτεύεται έναν εργάτη και του συμπαραστέκεται στην απεργία που ξεκινάει με τους συναδέλφους του κόντρα στον μπαμπά της.(n)</desc>
+  </programme>
+  <programme start="20250118181500 +0000" stop="20250118192000 +0000" channel="ANT1">
+    <title lang="el">ΤΑ ΝΕΑ ΤΟΥ ΑΝΤΕΝΝΑ</title>
+    <desc lang="el">10/09/24.(n)</desc>
+  </programme>
+  <programme start="20250118192000 +0000" stop="20250118210000 +0000" channel="ANT1">
+    <title lang="el">Casa De Mikel VI</title>
+  </programme>
+  <programme start="20250118210000 +0000" stop="20250118220000 +0000" channel="ANT1">
+    <title lang="el">Passenger II (ΤΕΛΕΥΤΑΙΟ ΕΠΕΙΣΟΔΙΟ)</title>
+  </programme>
+  <programme start="20250118220000 +0000" stop="20250119001000 +0000" channel="ANT1">
+    <title lang="el">Destroyer</title>
+    <desc lang="el">Προσπαθώντας να συνέλθει από την τραυματική εμπειρία μιας μυστικής αποστολής, η οποία στοίχισε τη ζωή στον συνάδελφο κι εραστή της, η Έριν Μπελ ερευνά ένα φόνο και υποπτεύεται πως πίσω του βρίσκεται ο υπεύθυνος για την προσωπική τραγωδία της.(n)</desc>
+  </programme>
+  <programme start="20250118040000 +0000" stop="20250118080000 +0000" channel="OMEGA">
+    <title lang="el">ΤΩΡΑ ΜΑΖΙ</title>
+    <desc lang="el">Κάθε Σάββατο και Κυριακή στις 6 το πρωί τραβούν την κουρτίνα και έρχονται στο φως όλα τα προβλήματα που αναζητούν λύση. Στην κοινωνία, την πολιτική, την οικονομία, την καθημερινότητα. Ό,τι συμβαίνει στο προσκήνιο και στο παρασκήνιο. Ο φακός της εκπομπής καταγράφει κάθε γεγονός, τη στιγμή που συμβαίνει, με απευθείας συνδέσεις και ανταποκρίσεις.(n)</desc>
+  </programme>
+  <programme start="20250118080000 +0000" stop="20250118110000 +0000" channel="OMEGA">
+    <title lang="el">ΠΡΩΙΝΟ ΣΟΥ ΣΟΥ (E)</title>
+    <desc lang="el">Η Ελένη θα μας καλωσορίζει με χαμόγελο και αισιοδοξία σε μια εκπομπή με γρήγορα αντανακλαστικά και σύγχρονο χαρακτήρα. Πλούσιο ρεπορτάζ για όλα τα θέματα της επικαιρότητας, αποκλειστικά νέα και συνεντεύξεις που θα συζητηθούν.(n)</desc>
+  </programme>
+  <programme start="20250118110000 +0000" stop="20250118132000 +0000" channel="OMEGA">
+    <title lang="el">Ο ΤΡΟΧΟΣ ΤΗΣ ΤΥΧΗΣ (E)</title>
+    <desc lang="el">Τηλεπαιχνίδι με τον Πέτρο Πολυχρονίδη γιατί «Όποιος γυρίζει, κερδίζει!».(n)</desc>
+  </programme>
+  <programme start="20250118132000 +0000" stop="20250118141500 +0000" channel="OMEGA">
+    <title lang="el">Chef ΣΤΗΝ ΚΟΥΖΙΝΑ ΣΑΣ</title>
+    <desc lang="el">Ο Βαγγέλης Δρίσκας μοιράζεται τις αγαπημένες του συνταγές.(n)</desc>
+  </programme>
+  <programme start="20250118141500 +0000" stop="20250118150500 +0000" channel="OMEGA">
+    <title lang="el">Stars System</title>
+    <desc lang="el">Η αγαπημένη αστρολόγος Άση Μπήλιου μας κρατά συντροφιά με τις προβλέψεις της, παρουσιάζει όλα όσα πρέπει να γνωρίζουμε για τις πλανητικές αλλαγές και την επιρροή τους και θα μας ενημερώνει για τις τυχερές αλλά και τις απαιτητικές ημέρες της εβδομάδας, ώστε να κινηθούμε αναλόγως. Ακόμη, με την αστρολογική της ματιά, θα προσεγγίζει θέματα, πρόσωπα και εξελίξεις σε εγχώριο και παγκόσμιο επίπεδο.(n)</desc>
+  </programme>
+  <programme start="20250118150500 +0000" stop="20250118160000 +0000" channel="OMEGA">
+    <title lang="el">ΕΙΚΟΝΕΣ</title>
+    <desc lang="el">Ο Τάσος Δούσης ταξιδεύει σε πέντε ηπείρους και μοιράζεται εμπειρίες και «Εικόνες».(n)</desc>
+  </programme>
+  <programme start="20250118160000 +0000" stop="20250118160500 +0000" channel="OMEGA">
+    <title lang="el">OMEGA NEWS</title>
+    <desc lang="el">Το ειδησεογραφικό δελτίο του OMEGA μεταφέρει τον παλμό των γεγονότων.(n)</desc>
+  </programme>
+  <programme start="20250118160500 +0000" stop="20250118161500 +0000" channel="OMEGA">
+    <title lang="el">ΕΙΚΟΝΕΣ (ΣΥΝΈΧΕΙΑ)</title>
+    <desc lang="el">Ο Τάσος Δούσης ταξιδεύει σε πέντε ηπείρους και μοιράζεται εμπειρίες και «Εικόνες».(n)</desc>
+  </programme>
+  <programme start="20250118161500 +0000" stop="20250118181000 +0000" channel="OMEGA">
+    <title lang="el">Cash Or Trash</title>
+    <desc lang="el">Με πλούσια εμπειρία και κυρίως αγάπη στον τομέα των παλιών αντικειμένων, η Δέσποινα Μοιραράκη μας προσκαλεί και μας υποδέχεται στη δημοπρασία της ζωής μας, τα αντικείμενα ξετυλίγουν τις ιστορίες τους και διεκδικούν την καλύτερη προσφορά για να αλλάξουν χέρια σε μια από τις πιο πετυχημένες εκπομπές στην Ευρώπη.(n)</desc>
+  </programme>
+  <programme start="20250118181000 +0000" stop="20250118191000 +0000" channel="OMEGA">
+    <title lang="el">OMEGA NEWS</title>
+    <desc lang="el">Το ειδησεογραφικό δελτίο του OMEGA μεταφέρει τον παλμό των γεγονότων.(n)</desc>
+  </programme>
+  <programme start="20250118191000 +0000" stop="20250118213000 +0000" channel="OMEGA">
+    <title lang="el">Aquaman</title>
+    <desc lang="el">Ο Aquaman προσπαθεί ανεπιτυχώς να ισορροπήσει μεταξύ των βασιλικών, οικογενειακών και υπερηρωικών υποχρεώσεών του, όταν ένας μοχθηρός εχθρός ανακαλύπτει την τοποθεσία της Ατλαντίδας και απειλεί να την αφανίσει. Σκηνοθεσία: Τζέιμς Γουάν. Με τους: Πάτρικ Γουίλσον, Τζέισον Μομόα, Νικόλ Κίντμαν, Μπεν Άφλεκ.(n)</desc>
+  </programme>
+  <programme start="20250118213000 +0000" stop="20250118233000 +0000" channel="OMEGA">
+    <title lang="el">American Sniper</title>
+    <desc lang="el">Ύστερα από τέσσερις θητείες στο Ιράκ και 160 επιβεβαιωμένους φόνους, ο ελεύθερος σκοπευτής Κρις Κάιλ είναι ένας ζωντανός αμερικανικός θρύλος. Πίσω στην πατρίδα, όμως, η προσωπική και οικογενειακή του ζωή στοιχειώνονται από την πολεμική πραγματικότητα που τον ακολουθεί παντού. Σκηνοθεσία: Κλιντ Ίστγουντ. Με τους: Μπράντλεϊ Κούπερ, Σιένα Μίλερ, Κάιλ Γκάλνερ.(n)</desc>
+  </programme>
+  <programme start="20250118233000 +0000" stop="20250119003000 +0000" channel="OMEGA">
+    <title lang="el">Wish for Christmas</title>
+    <desc lang="el">Έξαλλη που αναγκάζεται να χάσει τον χειμερινό χορό της πόλης για να πάει στην εκκλησία, μια τελειόφοιτη λυκείου εύχεται να φύγουν οι γονείς της η πίστη των γονιών της, κάτι που οδηγεί σε απροσδόκητες συνέπειες. Σε σκηνοθεσία John K.D. Graham. Με τους Joey LawrenceLeigh-Allyn BakerAnna Fricks.(n)</desc>
+  </programme>
+  <programme start="20250118040000 +0000" stop="20250118050000 +0000" channel="Sigma">
+    <title lang="el">ΟΙ ΑΔΙΑΦΘΟΡΟΙ (E)</title>
+  </programme>
+  <programme start="20250118050000 +0000" stop="20250118063000 +0000" channel="Sigma">
+    <title lang="el">ΖΩΗ ΠΟΔΗΛΑΤΟ (E)</title>
+  </programme>
+  <programme start="20250118063000 +0000" stop="20250118080000 +0000" channel="Sigma">
+    <title lang="el">Η ΠΕΘΕΡΑ (E)</title>
+  </programme>
+  <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="Sigma">
+    <title lang="el">ΧΡΥΣΩΜΑΓΕΙΡΕΜΑΤΑ ΜΕ ΤΗ ΧΡΥΣΩ ΛΕΦΟΥ</title>
+    <desc lang="el">Η γνωστή και πολύ αγαπημένη τηλεμαγείρισσα ΧΡΥΣΩ ΛΕΦΟΥ, υπόσχεται να φέρει στην οθόνη σας την πλούσια παράδοση και τη μοναδικότητα της κυπριακής κουζίνας!Η Χρύσω Λέφου, μια μαγείρισσα με μεγάλη ιστορία στον χώρο της γαστρονομίας, έχει αφιερώσει ολόκληρη τ.(n)</desc>
+  </programme>
+  <programme start="20250118090000 +0000" stop="20250118100000 +0000" channel="Sigma">
+    <title lang="el">ΟΙ ΤΑΚΚΟΙ (E)</title>
+  </programme>
+  <programme start="20250118100000 +0000" stop="20250118110000 +0000" channel="Sigma">
+    <title lang="el">ΤΑ ΧΡΥΣΟΨΑΡΑ (E)</title>
+  </programme>
+  <programme start="20250118110000 +0000" stop="20250118120000 +0000" channel="Sigma">
+    <title lang="el">ΒΟΥΡΑΤΕ ΓΕΙΤΟΝΟΙ (E)</title>
+    <desc lang="el">Η Ιωάννα Μαλέσκου και η παρέα της αλλάζει τα μεσημέρια μας ΣΙΓΜΑ και γίνονται η καθημερινή μας συνήθεια. Αποκλειστικές ειδήσεις, πρόσωπα που αγαπάμε και χρηστικά θέματα που αλλάζουν την καθημερινότητά μας. Προτάσεις για μόδα και ομορφιά. Συνεντεύξεις αλλά.(n)</desc>
+  </programme>
+  <programme start="20250118120000 +0000" stop="20250118130000 +0000" channel="Sigma">
+    <title lang="el">TRAVEL GUIDE</title>
+    <desc lang="el">Ταξιδιωτική εκπομπή με το Θάνο Παπαδημητρίου. Σημερινός προορισμός: ???(n)</desc>
+  </programme>
+  <programme start="20250118130000 +0000" stop="20250118140000 +0000" channel="Sigma">
+    <title lang="el">Frankie Drake Mysteries</title>
+    <desc lang="el">Η σειρά ακολουθεί τη μοναδική ιδιωτική ντετέκτιβ στο Τορόντο του 1920, την Frankie/Φράνκι, καθώς αναλαμβάνει υποθέσεις που η αστυνομία δεν θέλει ή δεν μπορεί να λύσει. Το φύλο της είναι το μεγαλύτερο πλεονέκτημά της. Ποιος να φανταζόταν ότι μια γυναίκα θα.(n)</desc>
+  </programme>
+  <programme start="20250118140000 +0000" stop="20250118160000 +0000" channel="Sigma">
+    <title lang="el">The Voice of Greece (E)</title>
+    <desc lang="el">Ο Γιώργος Καπουτζίδης σας υποδέχεται στον μεγαλύτερο και πιο δημοφιλή διαγωνισμό μουσικής στον κόσμο. Δίπλα του οι coaches, Πάνος Μουζουράκης, ο Χρήστος Μάστορας, ο Γιώργος Μαζωνάκης και η Έλενα Παπαρίζου βάζουν τη δική τους, ξεχωριστή, σφραγίδα, αναζητο.(n)</desc>
+  </programme>
+  <programme start="20250118160000 +0000" stop="20250118160500 +0000" channel="Sigma">
+    <title lang="el">ΓΕΓΟΝΟΤΑ ΣΕ ΣΥΝΤΟΜΙΑ</title>
+    <desc lang="el">Οι κυριότερες ειδήσεις της ημέρας σε 5'.(n)</desc>
+  </programme>
+  <programme start="20250118160500 +0000" stop="20250118170000 +0000" channel="Sigma">
+    <title lang="el">The Voice of Greece (E)</title>
+    <desc lang="el">Ο Γιώργος Καπουτζίδης σας υποδέχεται στον μεγαλύτερο και πιο δημοφιλή διαγωνισμό μουσικής στον κόσμο. Δίπλα του οι coaches, Πάνος Μουζουράκης, ο Χρήστος Μάστορας, ο Γιώργος Μαζωνάκης και η Έλενα Παπαρίζου βάζουν τη δική τους, ξεχωριστή, σφραγίδα, αναζητο.(n)</desc>
+  </programme>
+  <programme start="20250118170000 +0000" stop="20250118175000 +0000" channel="Sigma">
+    <title lang="el">Still Standing ΜΕ ΤΟΝ ΧΡΗΣΤΟ ΦΕΡΕΝΤΙΝΟ</title>
+    <desc lang="el">Ο Χρήστος Φερεντίνος υποδέχεται στο «Still Standing» όλους όσοι πατούν γερά στις γνώσεις τους και τολμούν καθημερινά να διεκδικήσουν έως 30.000 ευρώ τη μέρα! Απαραίτητη προϋπόθεση; Οι 9 διαγωνιζόμενοι του κάθε επεισοδίου να μείνουν όρθιοι και να μη βρεθού.(n)</desc>
+  </programme>
+  <programme start="20250118175000 +0000" stop="20250118190000 +0000" channel="Sigma">
+    <title lang="el">ΤΟΜΕΣ ΣΤΑ ΓΕΓΟΝΟΤΑ</title>
+    <desc lang="el">Το κεντρικό δελτίο ειδήσεων της τηλεόρασης ΣΙΓΜΑ στελεχώνεται με την πιο δυναμική ομάδα που σκοπό έχει την ενημέρωση του τηλεοπτικού κοινού. Καλεσμένοι στο στούντιο και σχόλια από έγκριτους δημοσιογράφους, έρευνες και αποκαλυπτικά ρεπορτάζ όλα με εγκυρότητα και διεισδυτικότητα. Η Πέτρα Αργυρού, ο Χρύσανθος Τσουρούλλης και η δημοσιογραφική ομάδα του ΣΙΓΜΑ, με δυναμισμό και πάθος αποκαλύπτουν την αλήθεια πίσω από την είδηση.(n)</desc>
+  </programme>
+  <programme start="20250118190000 +0000" stop="20250118223000 +0000" channel="Sigma">
+    <title lang="el">The Voice of Greece - ΗΜΙΤΕΛΙΚΟΣ Live</title>
+    <desc lang="el">Ο Γιώργος Καπουτζίδης σας υποδέχεται στον μεγαλύτερο και πιο δημοφιλή διαγωνισμό μουσικής στον κόσμο. Δίπλα του οι coaches, Πάνος Μουζουράκης, ο Χρήστος Μάστορας, ο Γιώργος Μαζωνάκης και η Έλενα Παπαρίζου βάζουν τη δική τους, ξεχωριστή, σφραγίδα, αναζητο.(n)</desc>
+  </programme>
+  <programme start="20250118223000 +0000" stop="20250119000000 +0000" channel="Sigma">
+    <title lang="el">ΚΑΙ ΑΥΤΟΣ ΤΟ ΒΙΟΛΙ ΤΟΥ</title>
+    <desc lang="el">Ένας βιολιστής, ο Λευτέρης, τρέχει διαρκώς από δω κι από κει για δουλειά. Από τη Συμφωνική Ορχήστρα μέχρι την Εκκλησία. Κάποια Κυριακή, ένα επεισόδιο λόγω ανταγωνισμού δύο εκκλησιών γίνεται η αιτία να βρεθεί στη φυλακή, όπου και διηγείται τη ζωή του σ' έναν συγκρατούμενό του. Έχει κάνει μια πολυτάραχη ζωή, πλούσια σε γάμους και διαζύγια. Παντρεύτηκε τρεις φορές: στην αρχή με την ερωτιάρα Ευγενία, ακολούθως με τη θρησκευόμενη Άννα και τέλος με τη σεμνή Μαρία.(n)</desc>
+  </programme>
+  <programme start="20250118032000 +0000" stop="20250118032500 +0000" channel="Plus">
+    <title lang="el">Αορατος Φακος</title>
+    <desc lang="el">ΑΟΡΑΤΟΣ ΦΑΚΟΣ, ΦΑΡΣΕΣ.(n)</desc>
+  </programme>
+  <programme start="20250118032500 +0000" stop="20250118035000 +0000" channel="Plus">
+    <title lang="el">Ξενη Κωμικη Σειρα</title>
+    <desc lang="el">ΞΕΝΗ ΚΩΜΙΚΗ ΣΕΙΡΑ Ep. 11, Season IIΙ.(n)</desc>
+  </programme>
+  <programme start="20250118035000 +0000" stop="20250118042500 +0000" channel="Plus">
+    <title lang="el">Μαγειρευουμε Παρεα, Season Ιι ( E ) Με Τον Σεφ Ανδρέα Κωνσταντίνου</title>
+    <desc lang="el">Εκπομπή Μαγειρικής σε ΕΠΑΝΑΛΗΨΗ. Με τον σεφ Ανδρέα Κωνσταντίνου. Εκπομπή: 7η ( Ε ) για τη σεζόν 2024/2025 Για σήμερα ο σεφ μαγειρεύει: 1. Χωριάτικη πίττα με Πράσο (Πρασόπιττα) 2. Μαχαλεπί με Σοκολάτα και Σουμάδα (επιδόρπιο, το γλυκό της ημέρας).(n)</desc>
+  </programme>
+  <programme start="20250118042500 +0000" stop="20250118051000 +0000" channel="Plus">
+    <title lang="el">Παιδικες Σειρες</title>
+    <desc lang="el">ΠΑΙΔΙΚΕΣ ΣΕΙΡΕΣ ΜΕΤΑΓΛΩΤΤΙΣΜΕΝΕΣ ΣΤΑ ΕΛΛΗΝΙΚΑ.(n)</desc>
+  </programme>
+  <programme start="20250118051000 +0000" stop="20250118070000 +0000" channel="Plus">
+    <title lang="el">O Κομης Μοντεκριστο (Παραμυθι)</title>
+    <desc lang="el">Μεταγλωττισμένο Παιδικό Παραμύθι.(n)</desc>
+  </programme>
+  <programme start="20250118070000 +0000" stop="20250118073000 +0000" channel="Plus">
+    <title lang="el">Τηλεαγορα</title>
+    <desc lang="el">Τηλεοπτικός οδηγός αγορών.(n)</desc>
+  </programme>
+  <programme start="20250118073000 +0000" stop="20250118090000 +0000" channel="Plus">
+    <title lang="el">Εξυπνες Γευσεις (Smart Γευσεισ) (E )</title>
+    <desc lang="el">Εκπομπή Μαγειρικής. Με τον σεφ ΑΝΤΡΕΑ ΚΑΒΑΖΗ. Για σήμερα, ο σεφ παρουσιάζει συνταγές: 1. Κοτομπουκιές σε Κυπριακή Πίτα 2. Σαλάτα Ζυμαρικών με Λαχανικά.(n)</desc>
+  </programme>
+  <programme start="20250118090000 +0000" stop="20250118123000 +0000" channel="Plus">
+    <title lang="el">Τηλεαγορα</title>
+    <desc lang="el">Τηλεοπτικός οδηγός αγορών.(n)</desc>
+  </programme>
+  <programme start="20250118123000 +0000" stop="20250118133000 +0000" channel="Plus">
+    <title lang="el">Ξενη Οικογενειακη Σειρα</title>
+    <desc lang="el">ΞΕΝΗ ΟΙΚΟΓΕΝΕΙΑΚΗ ΣΕΙΡΑ.(n)</desc>
+  </programme>
+  <programme start="20250118133000 +0000" stop="20250118153000 +0000" channel="Plus">
+    <title lang="el">Τηλεαγορα</title>
+    <desc lang="el">Τηλεοπτικός οδηγός αγορών.(n)</desc>
+  </programme>
+  <programme start="20250118153000 +0000" stop="20250118165000 +0000" channel="Plus">
+    <title lang="el">Ta Καλυτερα Της Αγορας (Τηλεαγορα)</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ ΤΗΛΕΑΓΟΡΑΣ.(n)</desc>
+  </programme>
+  <programme start="20250118165000 +0000" stop="20250118174500 +0000" channel="Plus">
+    <title lang="el">Μαγειρευουμε Παρεα, Season Ιi ( E ). Με Τον Σεφ Ανδρέα Κωνσταντίνου</title>
+    <desc lang="el">Εκπομπή Μαγειρικής. Με τον σεφ Ανδρέα Κωνσταντίνου. 37η (B) εκπομπή της σεζόν 2024/2025 ( Ε ). Ο σεφ ετοιμάζει: 1. Γιουβαρλάκια Αυγολέμονο 2. Κρέμα Λεμονιού στον φούρνο (το γλυκό της ημέρας).(n)</desc>
+  </programme>
+  <programme start="20250118174500 +0000" stop="20250118190000 +0000" channel="Plus">
+    <title lang="el">Open Mind Talks, Season Ι ( Ε ). Με Τον Κωνσταντίνο Δρουσιώτη</title>
+    <desc lang="el">OPEN MIND TALKS, Season Ι σε ΕΠΑΝΑΛΗΨΗ. Με τον Κωνσταντίνο Δρουσιώτη  Καλεσμένοι με διάφορες ιδιότητες θα βρίσκονται στο στούντιο και θα συζητούν για τα προβλήματα της κοινωνίας, την προσωπική ανάπτυξη, τις σχέσεις, το μυαλό, τις καθημερινές δυσκολίες και ευκολίες! Μια ανοιχτόμυαλη προσέγγιση των ζητημάτων του σήμερα!  ΕΚΠΟΜΠΗ: 2η ( Ε ) για τη σεζόν 2025 Καλεσμένος ο: ΠΕΤΡΟΣ ΚΑΡΑΓΙΑΝΝΗΣ, Καθηγητής Ιατρικής Σχολής  *** ΠΡΕΜΙΕΡΑ για τη σεζόν 2025: 07-ΙΑΝΟΥΑΡΙΟΥ-2025.(n)</desc>
+  </programme>
+  <programme start="20250118190000 +0000" stop="20250118190500 +0000" channel="Plus">
+    <title lang="el">Ο Καιρος</title>
+    <desc lang="el">Προβλέψεις για τον καιρό.(n)</desc>
+  </programme>
+  <programme start="20250118190500 +0000" stop="20250118200500 +0000" channel="Plus">
+    <title lang="el">Πας Μαγειρευοντας ( E )</title>
+    <desc lang="el">Ταξιδιωτική / Μαγειρική εκπομπή. Με τον Βασίλη Πατσή. Εκπομπή: 6, season 3 Προορισμός: ΓΑΛΛΙΑ.(n)</desc>
+  </programme>
+  <programme start="20250118200500 +0000" stop="20250118210000 +0000" channel="Plus">
+    <title lang="el">Ξενη Οικογενειακη Σειρα ( E )</title>
+    <desc lang="el">ΞΕΝΗ ΟΙΚΟΓΕΝΕΙΑΚΗ ΣΕΙΡΑ Επ. 2, Season 4.(n)</desc>
+  </programme>
+  <programme start="20250118210000 +0000" stop="20250118234500 +0000" channel="Plus">
+    <title lang="el">Ξενη Ταινια</title>
+    <desc lang="el">ΞΕΝΗ ΤΑΙΝΙΑ: ΔΡΑΣΗ, ΠΕΡΙΠΕΤΕΙΑ, ΕΠΙΣΤΗΜΟΝΙΚΗ ΦΑΝΤΑΣΙΑ (φυσικές καταστροφές).(n)</desc>
+  </programme>
+  <programme start="20250118234500 +0000" stop="20250119014500 +0000" channel="Plus">
+    <title lang="el">Ξενη Ταινια</title>
+    <desc lang="el">ΞΕΝΗ ΤΑΙΝΙΑ: ΕΓΚΛΗΜΑ, ΔΡΑΜΑ.(n)</desc>
+  </programme>
+  <programme start="20250118064500 +0000" stop="20250118070000 +0000" channel="ONE CHANNEL CY">
+    <title lang="el">ΥΓΕΙΑ ΚΑΙ ΠΡΟΛΗΨΗ</title>
+    <desc lang="el">ΕΝΗΜΕΩΤΙΚΗ ΕΚΠΟΜΠΗ.(n)</desc>
+  </programme>
+  <programme start="20250118070000 +0000" stop="20250118083000 +0000" channel="ONE CHANNEL CY">
+    <title lang="el">ΕΛΛΗΝΙΚΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</title>
+    <desc lang="el">ΕΛΛΗΝΙΚΟΣ ΚΙΝΗΜΤΟΓΡΑΦΟΣ.(n)</desc>
+  </programme>
+  <programme start="20250118083000 +0000" stop="20250118093000 +0000" channel="ONE CHANNEL CY">
+    <title lang="el">ΜΕΡΙΕΜ</title>
+    <desc lang="el">ΤΟΥΡΚΙΚΗ ΔΡΑΜΑΤΙΚΗ ΣΕΙΡΑ.(n)</desc>
+  </programme>
+  <programme start="20250118093000 +0000" stop="20250118100000 +0000" channel="ONE CHANNEL CY">
+    <title lang="el">ΤΗΛΕΠΩΛΗΣΕΙΣ</title>
+    <desc lang="el">ΤΗΛΕΠΩΛΗΣΕΙΣ.(n)</desc>
+  </programme>
+  <programme start="20250118100000 +0000" stop="20250118113000 +0000" channel="ONE CHANNEL CY">
+    <title lang="el">ΕΛΛΗΝΙΚΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</title>
+    <desc lang="el">ΕΛΛΗΝΙΚΟΣ ΚΙΝΗΜΤΟΓΡΑΦΟΣ.(n)</desc>
+  </programme>
+  <programme start="20250118113000 +0000" stop="20250118130000 +0000" channel="ONE CHANNEL CY">
+    <title lang="el">ΑΠΕΥΘΕΙΑΣ ΣΥΝΔΕΣΗ SMILE</title>
+    <desc lang="el">ΑΠΕΥΘΕΙΑΣ ΣΥΝΔΕΣΗ SMILE.(n)</desc>
+  </programme>
+  <programme start="20250118130000 +0000" stop="20250118140000 +0000" channel="ONE CHANNEL CY">
+    <title lang="el">ΚΟΝΤΡΑ ΚΑΙ ΡΗΞΗ</title>
+    <desc lang="el">ΕΝΗΜΕΡΩΤΙΚΗ ΕΚΠΟΜΠΗ ΜΕ ΤΟΝ Κ.ΒΕΛΟΠΟΥΛΟ.(n)</desc>
+  </programme>
+  <programme start="20250118140000 +0000" stop="20250118153000 +0000" channel="ONE CHANNEL CY">
+    <title lang="el">Ο ΚΥΡΙΟΣ ΛΑΘΟΣ</title>
+    <desc lang="el">ΤΟΥΡΚΙΚΗ ΔΡΑΜΑΤΙΚΗ ΣΕΙΡΑ.(n)</desc>
+  </programme>
+  <programme start="20250118153000 +0000" stop="20250118160000 +0000" channel="ONE CHANNEL CY">
+    <title lang="el">ΤΗΛΕΠΩΛΗΣΕΙΣ</title>
+    <desc lang="el">ΤΗΛΕΠΩΛΗΣΕΙΣ.(n)</desc>
+  </programme>
+  <programme start="20250118160000 +0000" stop="20250118170000 +0000" channel="ONE CHANNEL CY">
+    <title lang="el">ΕΛΛΗΝΙΚΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</title>
+    <desc lang="el">ΕΛΛΗΝΙΚΟΣ ΚΙΝΗΜΤΟΓΡΑΦΟΣ.(n)</desc>
+  </programme>
+  <programme start="20250118170000 +0000" stop="20250118190000 +0000" channel="ONE CHANNEL CY">
+    <title lang="el">ΞΕΝΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</title>
+    <desc lang="el">Οι καλύτερες ξένες κινηματογραφικές ταινίες από όλο τον κόσμο.(n)</desc>
+  </programme>
+  <programme start="20250118190000 +0000" stop="20250118203000 +0000" channel="ONE CHANNEL CY">
+    <title lang="el">ΜΑΥΡΗ ΘΑΛΑΣΣΑ</title>
+    <desc lang="el">ΤΟΥΡΚΙΚΗ ΔΡΑΜΑΤΙΚΗ ΣΕΙΡΑ.(n)</desc>
+  </programme>
+  <programme start="20250118203000 +0000" stop="20250118220000 +0000" channel="ONE CHANNEL CY">
+    <title lang="el">ΞΕΝΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</title>
+    <desc lang="el">Οι καλύτερες ξένες κινηματογραφικές ταινίες από όλο τον κόσμο.(n)</desc>
+  </programme>
+  <programme start="20250118220000 +0000" stop="20250119000000 +0000" channel="ONE CHANNEL CY">
+    <title lang="el">ΞΕΝΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</title>
+    <desc lang="el">Οι καλύτερες ξένες κινηματογραφικές ταινίες από όλο τον κόσμο.(n)</desc>
+  </programme>
+  <programme start="20250118043000 +0000" stop="20250118052500 +0000" channel="Capital">
+    <title lang="el">Ανοικτό παράθυρο – με τον Πάρη Ποταμίτη (E)</title>
+    <desc lang="el">ΕΝΗΜΕΡΩΤΙΚΗ ΕΚΠΟΜΠΗ.(n)</desc>
+  </programme>
+  <programme start="20250118052500 +0000" stop="20250118060000 +0000" channel="Capital">
+    <title lang="el">Τηλεαγορά ΤvΜall – Κ</title>
+    <desc lang="el">ΤΗΛΕΑΓΟΡΑ.(n)</desc>
+  </programme>
+  <programme start="20250118060000 +0000" stop="20250118073500 +0000" channel="Capital">
+    <title lang="el">ΚΑΡΔΙΑ ΠΟΥ ΛΥΓΙΣΕ ΑΠΟ ΠΟΝΟ (E)</title>
+    <desc lang="el">ΕΛΛΗΝΙΚΗ ΤΑΙΝΙΑ.(n)</desc>
+  </programme>
+  <programme start="20250118073500 +0000" stop="20250118092000 +0000" channel="Capital">
+    <title lang="el">Ο νεράιδος των δοντιών</title>
+    <desc lang="el">FAMILY COMEDY.(n)</desc>
+  </programme>
+  <programme start="20250118092000 +0000" stop="20250118100000 +0000" channel="Capital">
+    <title lang="el">Τηλεαγορά ΤvΜall – Κ</title>
+    <desc lang="el">ΤΗΛΕΑΓΟΡΑ.(n)</desc>
+  </programme>
+  <programme start="20250118100000 +0000" stop="20250118120000 +0000" channel="Capital">
+    <title lang="el">ΤΑΠΕΙΝΟΣ ΚΑΙ ΚΑΤΑΦΡΟΝΗΜΕΝΟΣ (E)</title>
+    <desc lang="el">ΕΛΛΗΝΙΚΗ ΤΑΙΝΙΑ.(n)</desc>
+  </programme>
+  <programme start="20250118120000 +0000" stop="20250118130000 +0000" channel="Capital">
+    <title lang="el">ΠΡΟΣΩΠΙΚΟΤΗΤΕΣ (E)</title>
+    <desc lang="el">ΕΝΗΜΕΡΩΤΙΚΗ ΕΚΠΟΜΠΗ.(n)</desc>
+  </programme>
+  <programme start="20250118130000 +0000" stop="20250118150000 +0000" channel="Capital">
+    <title lang="el">Τσαγκαράκης τηλεαγορά – Κ</title>
+    <desc lang="el">ΤΗΛΕΑΓΟΡΑ.(n)</desc>
+  </programme>
+  <programme start="20250118150000 +0000" stop="20250118171000 +0000" channel="Capital">
+    <title lang="el">Τηλεαγορά ΤvΜall – Κ</title>
+    <desc lang="el">ΤΗΛΕΑΓΟΡΑ.(n)</desc>
+  </programme>
+  <programme start="20250118171000 +0000" stop="20250118190000 +0000" channel="Capital">
+    <title lang="el">Ο δρόμος της επιστροφής – drama – Κ</title>
+    <desc lang="el">DRAMA.(n)</desc>
+  </programme>
+  <programme start="20250118190000 +0000" stop="20250118212000 +0000" channel="Capital">
+    <title lang="el">Ζωολογικός κήπος</title>
+    <desc lang="el">DRAMA COMEDY.(n)</desc>
+  </programme>
+  <programme start="20250118212000 +0000" stop="20250118231000 +0000" channel="Capital">
+    <title lang="el">Η δύναμη της φύσης</title>
+    <desc lang="el">ACTION ADVNETURE CRIME.(n)</desc>
+  </programme>
+  <programme start="20250118231000 +0000" stop="20250119010000 +0000" channel="Capital">
+    <title lang="el">ΤΟ ΜΕΓΑΛΟ ΚΟΛΠΟ</title>
+    <desc lang="el">ACTION.(n)</desc>
+  </programme>
+  <programme start="20250118033000 +0000" stop="20250118040000 +0000" channel="MAD CY">
+    <title lang="el">NIGHT OUT…NOT</title>
+    <desc lang="el">Το Mad αγκαλιάζει την Ελληνική και International μουσική και κάθε εβομάδα σας παρουσιάζει τα 10 καλύτερα τραγούδια απο το πρόγραμμα του.(n)</desc>
+  </programme>
+  <programme start="20250118040000 +0000" stop="20250118043000 +0000" channel="MAD CY">
+    <title lang="el">CHILL MODE</title>
+    <desc lang="el">Τα πιο cool midtempo τραγούδια, ντύνουν με τον ήχο τους τις πιο chill στιγμές σου!(n)</desc>
+  </programme>
+  <programme start="20250118043000 +0000" stop="20250118050000 +0000" channel="MAD CY">
+    <title lang="el">CHILL MODE</title>
+    <desc lang="el">Τα πιο cool midtempo τραγούδια, ντύνουν με τον ήχο τους τις πιο chill στιγμές σου!(n)</desc>
+  </programme>
+  <programme start="20250118050000 +0000" stop="20250118053000 +0000" channel="MAD CY">
+    <title lang="el">MUSIC ON</title>
+  </programme>
+  <programme start="20250118053000 +0000" stop="20250118060000 +0000" channel="MAD CY">
+    <title lang="el">MUSIC ON</title>
+  </programme>
+  <programme start="20250118060000 +0000" stop="20250118063000 +0000" channel="MAD CY">
+    <title lang="el">MUSIC ON</title>
+  </programme>
+  <programme start="20250118063000 +0000" stop="20250118070000 +0000" channel="MAD CY">
+    <title lang="el">MUSIC ON</title>
+  </programme>
+  <programme start="20250118070000 +0000" stop="20250118073000 +0000" channel="MAD CY">
+    <title lang="el">MUSIC ON</title>
+  </programme>
+  <programme start="20250118073000 +0000" stop="20250118080000 +0000" channel="MAD CY">
+    <title lang="el">MUSIC ON</title>
+  </programme>
+  <programme start="20250118080000 +0000" stop="20250118083000 +0000" channel="MAD CY">
+    <title lang="el">MAD RADIO HITS</title>
+    <desc lang="el">Ο no1 ραδιοφωνικός σταθμός ζωντανεύει στην οθόνη σου! Οι μεγαλύτερες επιτυχίες που θα ακούσεις στο MAD RADIO 106,2 τώρα έχουν εικόνα.(n)</desc>
+  </programme>
+  <programme start="20250118083000 +0000" stop="20250118090000 +0000" channel="MAD CY">
+    <title lang="el">MAD RADIO HITS</title>
+    <desc lang="el">Ο no1 ραδιοφωνικός σταθμός ζωντανεύει στην οθόνη σου! Οι μεγαλύτερες επιτυχίες που θα ακούσεις στο MAD RADIO 106,2 τώρα έχουν εικόνα.(n)</desc>
+  </programme>
+  <programme start="20250118090000 +0000" stop="20250118093000 +0000" channel="MAD CY">
+    <title lang="el">LATIN VIBES</title>
+    <desc lang="el">Kαθημερινά παίζουμε τις μεγαλύτερες επιτυχίες από την Ισπανία και τη Λατινική Αμερική και χορέψτε σε ρυθμούς reggaeton, caribbean &amp; salsa.(n)</desc>
+  </programme>
+  <programme start="20250118093000 +0000" stop="20250118100000 +0000" channel="MAD CY">
+    <title lang="el">LATIN VIBES</title>
+    <desc lang="el">Kαθημερινά παίζουμε τις μεγαλύτερες επιτυχίες από την Ισπανία και τη Λατινική Αμερική και χορέψτε σε ρυθμούς reggaeton, caribbean &amp; salsa.(n)</desc>
+  </programme>
+  <programme start="20250118100000 +0000" stop="20250118103000 +0000" channel="MAD CY">
+    <title lang="el">AFRO BEATS</title>
+    <desc lang="el">Το most trended genre σε ολο τον κόσμο δεν θα μπορούσε να λείπει από το no1 Μουσικό κανάλι. Αfro ήχοι και smooth feeling!(n)</desc>
+  </programme>
+  <programme start="20250118103000 +0000" stop="20250118110000 +0000" channel="MAD CY">
+    <title lang="el">AFRO BEATS</title>
+    <desc lang="el">Το most trended genre σε ολο τον κόσμο δεν θα μπορούσε να λείπει από το no1 Μουσικό κανάλι. Αfro ήχοι και smooth feeling!(n)</desc>
+  </programme>
+  <programme start="20250118110000 +0000" stop="20250118113000 +0000" channel="MAD CY">
+    <title lang="el">TIK TOK MOVES</title>
+    <desc lang="el">Αν ακούς "ψαγμένη" μουσική αυτά είναι σίγουρα τα πιο πολυψαγμένα τραγούδια του μήνα!(n)</desc>
+  </programme>
+  <programme start="20250118113000 +0000" stop="20250118120000 +0000" channel="MAD CY">
+    <title lang="el">TIK TOK MOVES</title>
+    <desc lang="el">Αν ακούς "ψαγμένη" μουσική αυτά είναι σίγουρα τα πιο πολυψαγμένα τραγούδια του μήνα!(n)</desc>
+  </programme>
+  <programme start="20250118120000 +0000" stop="20250118123000 +0000" channel="MAD CY">
+    <title lang="el">NEW RELEASES</title>
+    <desc lang="el">Ό,τι πιο Fresh στην μουσική σκηνή το βλέπεις πρώτα εδώ! Όλες οι νέες κυκλοφορίες της εβδομάδας στην οθόνη σου!(n)</desc>
+  </programme>
+  <programme start="20250118123000 +0000" stop="20250118130000 +0000" channel="MAD CY">
+    <title lang="el">NEW RELEASES</title>
+    <desc lang="el">Ό,τι πιο Fresh στην μουσική σκηνή το βλέπεις πρώτα εδώ! Όλες οι νέες κυκλοφορίες της εβδομάδας στην οθόνη σου!(n)</desc>
+  </programme>
+  <programme start="20250118130000 +0000" stop="20250118133000 +0000" channel="MAD CY">
+    <title lang="el">MAD TOP 15</title>
+    <desc lang="el">Τα 15 κομμάτια του μήνα που άκουσες στο Μad και λάτρεψες περισσότερο.(n)</desc>
+  </programme>
+  <programme start="20250118133000 +0000" stop="20250118140000 +0000" channel="MAD CY">
+    <title lang="el">MAD TOP 15</title>
+    <desc lang="el">Τα 15 κομμάτια του μήνα που άκουσες στο Μad και λάτρεψες περισσότερο.(n)</desc>
+  </programme>
+  <programme start="20250118140000 +0000" stop="20250118143000 +0000" channel="MAD CY">
+    <title lang="el">BALKAN TRIP</title>
+    <desc lang="el">Eνα ταξίδι στους γειτονικούς ήχους που έχουν γίνει παγκόσμια επιτυχία.(n)</desc>
+  </programme>
+  <programme start="20250118143000 +0000" stop="20250118150000 +0000" channel="MAD CY">
+    <title lang="el">BALKAN TRIP</title>
+    <desc lang="el">Eνα ταξίδι στους γειτονικούς ήχους που έχουν γίνει παγκόσμια επιτυχία.(n)</desc>
+  </programme>
+  <programme start="20250118150000 +0000" stop="20250118153000 +0000" channel="MAD CY">
+    <title lang="el">MUSIC ROCKS</title>
+    <desc lang="el">Μια ώρα αφιερωμένη στο πιο διαχρονικό είδος μουσικής. Μεγάλες rock επιτυχίες των τελευταίων ετών.(n)</desc>
+  </programme>
+  <programme start="20250118153000 +0000" stop="20250118160000 +0000" channel="MAD CY">
+    <title lang="el">MUSIC ROCKS</title>
+    <desc lang="el">Μια ώρα αφιερωμένη στο πιο διαχρονικό είδος μουσικής. Μεγάλες rock επιτυχίες των τελευταίων ετών.(n)</desc>
+  </programme>
+  <programme start="20250118160000 +0000" stop="20250118163000 +0000" channel="MAD CY">
+    <title lang="el">MAD WEEKEND WRAPPED</title>
+    <desc lang="el">Όλα τα μουσικά νέα της εβδομάδας συγκεντρωμένα σε ένα weekend recap.(n)</desc>
+  </programme>
+  <programme start="20250118163000 +0000" stop="20250118170000 +0000" channel="MAD CY">
+    <title lang="el">WARM UP</title>
+    <desc lang="el">Ετοιμάζεσαι να βγεις; Θα σε βάλουμε στο κλίμα. Το απόλυτα warm up με ελληνικά και International up tempo επιλογές!(n)</desc>
+  </programme>
+  <programme start="20250118170000 +0000" stop="20250118173000 +0000" channel="MAD CY">
+    <title lang="el">WARM UP</title>
+    <desc lang="el">Ετοιμάζεσαι να βγεις; Θα σε βάλουμε στο κλίμα. Το απόλυτα warm up με ελληνικά και International up tempo επιλογές!(n)</desc>
+  </programme>
+  <programme start="20250118173000 +0000" stop="20250118180000 +0000" channel="MAD CY">
+    <title lang="el">WARM UP</title>
+    <desc lang="el">Ετοιμάζεσαι να βγεις; Θα σε βάλουμε στο κλίμα. Το απόλυτα warm up με ελληνικά και International up tempo επιλογές!(n)</desc>
+  </programme>
+  <programme start="20250118180000 +0000" stop="20250118183000 +0000" channel="MAD CY">
+    <title lang="el">MADWALK FLASHBACK</title>
+    <desc lang="el">Τhe Fashion Music Project! 12 χρόνια η μουσική και η μόδα γίνονται ένα!(n)</desc>
+  </programme>
+  <programme start="20250118183000 +0000" stop="20250118190000 +0000" channel="MAD CY">
+    <title lang="el">MADWALK FLASHBACK</title>
+    <desc lang="el">Τhe Fashion Music Project! 12 χρόνια η μουσική και η μόδα γίνονται ένα!(n)</desc>
+  </programme>
+  <programme start="20250118190000 +0000" stop="20250118193000 +0000" channel="MAD CY">
+    <title lang="el">MADWALK FLASHBACK</title>
+    <desc lang="el">Τhe Fashion Music Project! 12 χρόνια η μουσική και η μόδα γίνονται ένα!(n)</desc>
+  </programme>
+  <programme start="20250118193000 +0000" stop="20250118200000 +0000" channel="MAD CY">
+    <title lang="el">MADWALK FLASHBACK</title>
+    <desc lang="el">Τhe Fashion Music Project! 12 χρόνια η μουσική και η μόδα γίνονται ένα!(n)</desc>
+  </programme>
+  <programme start="20250118200000 +0000" stop="20250118203000 +0000" channel="MAD CY">
+    <title lang="el">MADWALK FLASHBACK</title>
+    <desc lang="el">Τhe Fashion Music Project! 12 χρόνια η μουσική και η μόδα γίνονται ένα!(n)</desc>
+  </programme>
+  <programme start="20250118203000 +0000" stop="20250118210000 +0000" channel="MAD CY">
+    <title lang="el">MADWALK FLASHBACK</title>
+    <desc lang="el">Τhe Fashion Music Project! 12 χρόνια η μουσική και η μόδα γίνονται ένα!(n)</desc>
+  </programme>
+  <programme start="20250118210000 +0000" stop="20250118213000 +0000" channel="MAD CY">
+    <title lang="el">LAI.CO</title>
+    <desc lang="el">Eίναι κάτι λαικά... που θα σε ψήσουμε να τα ακούσεις κι εσύ! Οι μεγαλύτερες ελληνικές λαικές επιτυχίες back to back!(n)</desc>
+  </programme>
+  <programme start="20250118213000 +0000" stop="20250118220000 +0000" channel="MAD CY">
+    <title lang="el">LAI.CO</title>
+    <desc lang="el">Eίναι κάτι λαικά... που θα σε ψήσουμε να τα ακούσεις κι εσύ! Οι μεγαλύτερες ελληνικές λαικές επιτυχίες back to back!(n)</desc>
+  </programme>
+  <programme start="20250118220000 +0000" stop="20250118223000 +0000" channel="MAD CY">
+    <title lang="el">TV WAR</title>
+    <desc lang="el">H hard rock &amp; metal σκηνή στην Τηλεόραση. Ότι πρέπει να γνωρίζουν οι φαν του είδους.(n)</desc>
+  </programme>
+  <programme start="20250118223000 +0000" stop="20250118230000 +0000" channel="MAD CY">
+    <title lang="el">TV WAR</title>
+    <desc lang="el">H hard rock &amp; metal σκηνή στην Τηλεόραση. Ότι πρέπει να γνωρίζουν οι φαν του είδους.(n)</desc>
+  </programme>
+  <programme start="20250118230000 +0000" stop="20250118233000 +0000" channel="MAD CY">
+    <title lang="el">TV WAR</title>
+    <desc lang="el">H hard rock &amp; metal σκηνή στην Τηλεόραση. Ότι πρέπει να γνωρίζουν οι φαν του είδους.(n)</desc>
+  </programme>
+  <programme start="20250118233000 +0000" stop="20250119000000 +0000" channel="MAD CY">
+    <title lang="el">MIXTAPE</title>
+  </programme>
+  <programme start="20250118040000 +0000" stop="20250118051000 +0000" channel="ALPHA">
+    <title lang="el">ΤΕΤ Α ΤΕΤ ΣΤΟΝ ALPHA (E)</title>
+    <desc lang="el">Συνέντευξη.(n)</desc>
+  </programme>
+  <programme start="20250118051000 +0000" stop="20250118060000 +0000" channel="ALPHA">
+    <title lang="el">ΕΠΤΑ ΘΑΝΑΣΙΜΕΣ ΠΕΘΕΡΕΣ (E)</title>
+    <desc lang="el">Ελληνική Σειρά.(n)</desc>
+  </programme>
+  <programme start="20250118060000 +0000" stop="20250118065000 +0000" channel="ALPHA">
+    <title lang="el">ΟΛΑ ΓΙΑ ΤΗ ΖΩΗ ΜΑΣ</title>
+    <desc lang="el">Ενημερωτική Εκπομπή με τον Μιχάλη Κεφαλογιάννη.(n)</desc>
+  </programme>
+  <programme start="20250118065000 +0000" stop="20250118074500 +0000" channel="ALPHA">
+    <title lang="el">KITCHEN LAB (E)</title>
+    <desc lang="el">Ψυχαγωγική Εκπομπή.(n)</desc>
+  </programme>
+  <programme start="20250118074500 +0000" stop="20250118110000 +0000" channel="ALPHA">
+    <title lang="el">ΣΑΒΒΑΤΟΚΥΡΙΑΚΟ ΜΕ ΤΟΝ ΜΑΝΕΣΗ</title>
+    <desc lang="el">Ενημερωτική Εκπομπή.(n)</desc>
+  </programme>
+  <programme start="20250118110000 +0000" stop="20250118120000 +0000" channel="ALPHA">
+    <title lang="el">ΣΤΟ ΠΑΡΑ ΠΕΝΤΕ (E)</title>
+    <desc lang="el">Ελληνική Σειρά.(n)</desc>
+  </programme>
+  <programme start="20250118120000 +0000" stop="20250118130000 +0000" channel="ALPHA">
+    <title lang="el">DEAL (E)</title>
+    <desc lang="el">Τηλεπαιχνίδι.(n)</desc>
+  </programme>
+  <programme start="20250118130000 +0000" stop="20250118140000 +0000" channel="ALPHA">
+    <title lang="el">ΑΜΦΙΒΟΛΙΕΣ (E)</title>
+    <desc lang="el">Ελληνική Σειρά.(n)</desc>
+  </programme>
+  <programme start="20250118140000 +0000" stop="20250118150000 +0000" channel="ALPHA">
+    <title lang="el">NO LEFTOVERS</title>
+    <desc lang="el">Μαγειρική Εκπομπή.(n)</desc>
+  </programme>
+  <programme start="20250118150000 +0000" stop="20250118155500 +0000" channel="ALPHA">
+    <title lang="el">ΕΧΩ ΠΑΙΔΙΑ</title>
+    <desc lang="el">Ελληνική Σειρά.Επ.20: Η Σάρα προσπαθεί να μάθει στα παιδιά της να τρώνε περισσότερα λαχανικά, αλλά οι τρόποι της φέρνουν τα αντίθετα αποτελέσματα. Ο Μιχάλης προσπαθεί να ρίξει τη χοληστερίνη του τη στιγμή που η Σάρα κάνει τα πάντα για να ξεφορτωθεί έναν μασέρ με μαγικά χέρια.(n)</desc>
+  </programme>
+  <programme start="20250118155500 +0000" stop="20250118160000 +0000" channel="ALPHA">
+    <title lang="el">ΕΙΔΗΣΕΙΣ ΚΑΙ ΔΕΛΤΙΟ ΣΤΗ ΝΟΗΜΑΤΙΚΗ</title>
+    <desc lang="el">Δελτίο Ειδήσεων στη Νοηματική.(n)</desc>
+  </programme>
+  <programme start="20250118160000 +0000" stop="20250118170000 +0000" channel="ALPHA">
+    <title lang="el">MONEY DROP</title>
+    <desc lang="el">Τηλεπαιχνίδι με έπαθλο μέχρι και 300 χιλιάδες ευρώ με τη Βίκυ Σταυροπούλου.(n)</desc>
+  </programme>
+  <programme start="20250118170000 +0000" stop="20250118180000 +0000" channel="ALPHA">
+    <title lang="el">THE CHASE GR</title>
+    <desc lang="el">Τηλεπαιχνίδι.(n)</desc>
+  </programme>
+  <programme start="20250118180000 +0000" stop="20250118190000 +0000" channel="ALPHA">
+    <title lang="el">ALPHA NEWS</title>
+    <desc lang="el">Κεντρικό δελτίο ειδήσεων του ALPHA. Σε μια εποχή όπου τα πολιτικά, οικονομικά και κοινωνικά δεδομένα αλλάζουν και οι πολίτες αναζητούν την έγκυρη και έγκαιρη ενημέρωση, έρχονται οι Ειδήσεις του ALPHA με δυναμικό, μαχητικό, αποκαλυπτικό και αξιόπιστο χαρακτήρα.(n)</desc>
+  </programme>
+  <programme start="20250118190000 +0000" stop="20250118210000 +0000" channel="ALPHA">
+    <title lang="el">ΠΑΡΑΔΟΣΙΑΚΗ ΒΡΑΔΙΑ</title>
+    <desc lang="el">Μουσική Εκπομπή.(n)</desc>
+  </programme>
+  <programme start="20250118210000 +0000" stop="20250118221500 +0000" channel="ALPHA">
+    <title lang="el">MONEY DROP (E)</title>
+    <desc lang="el">Τηλεπαιχνίδι.(n)</desc>
+  </programme>
+  <programme start="20250118221500 +0000" stop="20250118231500 +0000" channel="ALPHA">
+    <title lang="el">Ο ΣΚΑΡΑΒΑΙΟΣ (E)</title>
+    <desc lang="el">Ελληνική Σειρά.(n)</desc>
+  </programme>
+  <programme start="20250118231500 +0000" stop="20250119001500 +0000" channel="ALPHA">
+    <title lang="el">ΦΟΝΟΙ ΣΤΟ ΚΑΜΠΑΝΑΡΙΟ (E)</title>
+    <desc lang="el">Ελληνική Σειρά.(n)</desc>
+  </programme>
+  <programme start="20250118040000 +0000" stop="20250118043000 +0000" channel="Vergina TV">
+    <title lang="el">ΤΡΙΑ ΣΚΙΟΥΡΑΚΙΑ</title>
+    <desc lang="el">Μια φορά κι έναν καιρό… υπήρχαν τρία σκιουράκια. Ήταν πολύ χαριτωμένα… αλλά λίγο τρελούτσικα. Ζούσαν ευτυχισμένα σ’ ένα υπέροχο δάσος με όλων των ειδών τους ξηρούς καρπούς. Ήταν ένας πραγματικός παράδεισος… αν εξαιρέσεις τον αγριόγατο που τους κυνηγούσε συνέχεια. Όταν τα σκιουράκια του έκοψαν κατά λάθος την ουρά, η εκδικητική αγριόγατα ορκίστηκε ότι θα της το πληρώσουν ακριβά. Κι έτσι η περιπέτεια ξεκινά για τα τρία σκιουράκια.(n)</desc>
+  </programme>
+  <programme start="20250118043000 +0000" stop="20250118050000 +0000" channel="Vergina TV">
+    <title lang="el">MAGIC BLOCKS</title>
+    <desc lang="el">Ο Ντάνι και η οικογένειά του ζουν στη Παιχνιδούπολη. Με το μαγικό του ρολόι επικοινωνεί με τον Δόκτωρα Πέιμποτ κάθε φορά που υπάρχει πρόβλημα στην πόλη. Ο Μπόμπο, η Λούλου και ο Κόκο, τρία ρομπότ από τουβλάκια δημιουργούν όλα τα ήδη σχημάτων για να βοηθήσουν τον Ντάνι και τους φίλους του στην Παιχνιδούπολη.(n)</desc>
+  </programme>
+  <programme start="20250118050000 +0000" stop="20250118053000 +0000" channel="Vergina TV">
+    <title lang="el">KIKORIKI</title>
+    <desc lang="el">Μια ομάδα κεφάτων φίλων που αποτελείται από έναν λαγό, ένα σκαντζόχοιρο και άλλα χαριτωμένα ζωάκια διασκεδάζει λύνοντας καθημερινά προβλήματα, λέγοντας ιστορίες και παίρνοντας πολύτιμα μαθήματα ζωής.(n)</desc>
+  </programme>
+  <programme start="20250118053000 +0000" stop="20250118060000 +0000" channel="Vergina TV">
+    <title lang="el">TOBOT</title>
+    <desc lang="el">Εξετάζοντας μια σειρά μυστηριωδών ατυχημάτων, ο Δρ Franklin Char απαγάγεται από τους δράστες. Αυτό το περιστατικό ενεργοποιεί τα"Tobots.(n)</desc>
+  </programme>
+  <programme start="20250118060000 +0000" stop="20250118063000 +0000" channel="Vergina TV">
+    <title lang="el">THE OWL</title>
+    <desc lang="el">Σε ένα δάσος γεμάτο... "επικίνδυνα" ζώα, μια μικρή, ροζ, γκρινιάρα και οξύθυμη κουκουβάγια, αντιμετωπίζει καθημερινά πολλές προκλήσεις, προσπαθώντας να επιβιώσει από την υπερβολική αγάπη των φίλων της!(n)</desc>
+  </programme>
+  <programme start="20250118063000 +0000" stop="20250118070000 +0000" channel="Vergina TV">
+    <title lang="el">POPPLES</title>
+    <desc lang="el">Μια παρέα πέντε χαριτωμένων λούτρινων φίλων μπλέκει σε κάθε λογής περιπέτειες που διασκεδάζουν και εκπαιδεύουν μικρούς και μεγάλους. Η Μπαμπλς, ο Ίζι, η Σαννυ, ο Γιάικς και η Λούλου βρίσκονται σε ξεκαρδιστικούς μπελάδες κάθε φορά που προσπαθούν να βοηθήσουν τα φιλαράκια τους, τους γείτονές τους ή τους κατοίκους της Ποππλόπολης. Ευτυχώς στο τέλος και μετά από πολλά ευτράπελα, καταφέρνουν να επαναφέρουν την ηρεμία στην πόλη, μετά το χάος που οι ίδιοι προκάλεσαν.(n)</desc>
+  </programme>
+  <programme start="20250118070000 +0000" stop="20250118073000 +0000" channel="Vergina TV">
+    <title lang="el">ZIG &amp; SHARKO</title>
+    <desc lang="el">Η πεινασμένη ύαινα Ζιγκ προσπαθεί διαρκώς να φάει τη Μαρίνα τη γοργόνα για μεσημεριανό, αλλά ο πιστός της φίλος Σάρκο έρχεται πάντα να τη σώσει εγκαίρως.(n)</desc>
+  </programme>
+  <programme start="20250118073000 +0000" stop="20250118080000 +0000" channel="Vergina TV">
+    <title lang="el">PACMAN</title>
+    <desc lang="el">Ο αγαπημένος ήρωας με την τεράστια όρεξη έρχεται ξανά κοντά σας με νέες περιπέτειες. Ο Πακμαν θα προσπαθήσει να σώσει για άλλη μια φορά τον ΚοσμοΠακ από τα σχέδια του Άρχοντα Μπιτρέιους και να βρει τους χαμένους γονείς του, με τη βοήθεια των φίλων του, Σίλι και Σπιράλ καθώς και τους Κυρίου Σι.(n)</desc>
+  </programme>
+  <programme start="20250118080000 +0000" stop="20250118083000 +0000" channel="Vergina TV">
+    <title lang="el">Vroomiz</title>
+    <desc lang="el">Για αυτά τα αυτοκινοτοζωάκια κάθε μέρα στο Zipy city είναι μια ευκαιρία να διασκεδάσουν να γίνουν δημιουργικά και να συνεργαστούν για να λύσουν δύσκολα προβλήματα.(n)</desc>
+  </programme>
+  <programme start="20250118083000 +0000" stop="20250118090000 +0000" channel="Vergina TV">
+    <title lang="el">Pincode</title>
+    <desc lang="el">Μια ομάδα κεφάτων φίλων που αποτελείται από έναν λαγό, ένα σκαντζόχοιρο και άλλα χαριτωμένα ζωάκια διασκεδάζει λύνοντας καθημερινά προβλήματα, λέγοντας ιστορίες και παίρνοντας πολύτιμα μαθήματα ζωής.(n)</desc>
+  </programme>
+  <programme start="20250118090000 +0000" stop="20250118093000 +0000" channel="Vergina TV">
+    <title lang="el">SABRINA</title>
+    <desc lang="el">H Sabrina, ως έφηβη πλέον μάγισσα ζει δύο πολύ διαφορετικές ζωές.Από την μία εμφανίζεται ως μια κανονική μαθήτρια γυμνασίου και από την άλλη ως η κορυφαία μαθήτρια μαγείας στον κόσμο των μάγων. Όταν συγκρούονται οι δύο κόσμοι, η Sabrina είναι η μόνη που έχει τη δύναμη να πολεμήσει τους κακούς, ενώ καταφέρνει να κρατήσει τη μαγική ταυτότητά της μυστική από την ανθρωπότητα.(n)</desc>
+  </programme>
+  <programme start="20250118093000 +0000" stop="20250118100000 +0000" channel="Vergina TV">
+    <title lang="el">KAELOO</title>
+    <desc lang="el">Ο Καελού, ο Κουακ Κουακ και ο Κύριος Γάτος ζουν με τους φίλους τους στην Σούπερ Ομορφοχώρα και βρίσκουν ένα σωρό διασκεδαστικούς τρόπους για να περάσουν τον χρόνο τους. Η ψυχαγωγία αποκτά καινούριο νόημα και οι κανόνες του παιχνιδιού αλλάζουν συνεχώς, προκαλώντας όμορφες περιπέτειες.(n)</desc>
+  </programme>
+  <programme start="20250118100000 +0000" stop="20250118103000 +0000" channel="Vergina TV">
+    <title lang="el">Meteoheroes</title>
+    <desc lang="el">Μια παρέα έξι φαινομενικά φυσιολογικών παιδιών ανακαλύπτει ξαφνικά ότι έχει υπερδυνάμεις, ώστε να μπορεί να ελέγχει τα φυσικά φαινόμενα. Οι Μετεοήρωες χρησιμοποιούν τις υπερδυνάμεις τους για να σώσουν τον πλανήτη Γη και να πάρουν πολύτιμα μαθήματα ζωής.(n)</desc>
+  </programme>
+  <programme start="20250118103000 +0000" stop="20250118110000 +0000" channel="Vergina TV">
+    <title lang="el">Dangermouse</title>
+    <desc lang="el">Ο μεγαλύτερος σούπερ κατάσκοπος στον κόσμο,o Danger Mouse επιστρέφει για να σώσει την ανθρωπότητα με τη βοήθεια του χάμστερ του, Penfold και μιας συλλογής υπερσύγχρονων gadget.(n)</desc>
+  </programme>
+  <programme start="20250118110000 +0000" stop="20250118130000 +0000" channel="Vergina TV">
+    <title lang="el">ΤΗΛΕΑΓΟΡΕΣ</title>
+    <desc lang="el">Προώθηση προιόντων.(n)</desc>
+  </programme>
+  <programme start="20250118130000 +0000" stop="20250118143000 +0000" channel="Vergina TV">
+    <title lang="el">Οι δύο όψεις της Οικονομίας</title>
+    <desc lang="el">Ενημέρωση για όσα συμβαίνουν στην οικονομία με την Δόνα Καπαρτή.(n)</desc>
+  </programme>
+  <programme start="20250118143000 +0000" stop="20250118170000 +0000" channel="Vergina TV">
+    <title lang="el">Σαββατοκύριακο με τον Στέργιο Καλόγηρο</title>
+    <desc lang="el">Ενημερωτική εκπομπή για θέματα καθημερινότητας με τους πολίτες σε πρώτο πλάνο.(n)</desc>
+  </programme>
+  <programme start="20250118170000 +0000" stop="20250118220000 +0000" channel="Vergina TV">
+    <title lang="el">ΑΝΑΣΚΟΠΗΣΗ</title>
+    <desc lang="el">Ανασκόπηση της εβδομάδας.(n)</desc>
+  </programme>
+  <programme start="20250118220000 +0000" stop="20250119000000 +0000" channel="Vergina TV">
+    <title lang="el">ΤΑΙΝΙΑ</title>
+    <desc lang="el">ΤΑΙΝΙΑ.(n)</desc>
+  </programme>
+  <programme start="20250118033000 +0000" stop="20250118040000 +0000" channel="Smile TV">
+    <title lang="el">PRETTY CURE</title>
+    <desc lang="el">"Dream Corps is a 3D HD animation series, on the subject of protecting children's dreams. The heroes are ordinary children in real life; but in the dream world, they become ‘super heroes’, and fight with the devil who sucks vigor from nightmares by distorting children's dreams, and finally they defeat the incubus.(n)</desc>
+  </programme>
+  <programme start="20250118040000 +0000" stop="20250118043000 +0000" channel="Smile TV">
+    <title lang="el">HERB FAMILY</title>
+    <desc lang="el">Μια ομάδα υπέροχων ξωτικών μπλέκεται σε μια επική ιστορία του καλούενάντια στο κακό. Τελικός στόχος της ομάδας είναι να βρουν και τα 101θρυλικά ξωτικά και να προστατεύσουν την υγεία των ανθρώπων.(n)</desc>
+  </programme>
+  <programme start="20250118043000 +0000" stop="20250118050000 +0000" channel="Smile TV">
+    <title lang="el">DIMITRI</title>
+    <desc lang="el">Εξαιτίας μιας σφοδρής καταιγίδας, ο Ντιμίτρι, ένα μικρό αποδημητικό πουλάκι που ταξιδεύει από την Ευρώπη με την οικογένειά του, χάνει τους γονείς του και πέφτει σε μια κοιλάδα στην Αφρική. Η Μακέμπα, η καμηλοπάρδαλη, αναλαμβάνει να τον φροντίσει και να τον προστατέψει μέχρι να ξαναβρεί τους γονείς του, ενώ ο μικρός Ντιμίτρι γνωρίζει νέους φίλους, νέα μέρη και την καθημερινή ζωή στην αφρικανική ήπειρο, που είναι γεμάτη περιπέτειες και εκπλήξεις!(n)</desc>
+  </programme>
+  <programme start="20250118050000 +0000" stop="20250118053000 +0000" channel="Smile TV">
+    <title lang="el">PET PALS</title>
+    <desc lang="el">Ελάτε να γνωρίσετε τα PET PALS, τα πανέξυπνα ζωάκια που κατοικούν στην ΠΑΦ,μια ήρεμη μικρή πόλη όπου τα πάντα λειτουργούν χάρη στη δύναμη του ανέμου.Όμως, η κακιά Κορακο-μάγισσα είναι αποφασισμένη να ταράξει την ειρήνη τηςπόλης ΠΑΦ και να πάρει στα χέρια της τον «Ανεμόμυλο» για να αποκτήσει τονέλεγχο του ανέμου και ολόκληρης της πόλης.(n)</desc>
+  </programme>
+  <programme start="20250118053000 +0000" stop="20250118060000 +0000" channel="Smile TV">
+    <title lang="el">Vroomiz</title>
+    <desc lang="el">Για αυτά τα αυτοκινοτοζωάκια κάθε μέρα στο Zipy city είναι μια ευκαιρία να διασκεδάσουν να γίνουν δημιουργικά και να συνεργαστούν για να λύσουν δύσκολα προβλήματα.(n)</desc>
+  </programme>
+  <programme start="20250118060000 +0000" stop="20250118063000 +0000" channel="Smile TV">
+    <title lang="el">NONO</title>
+    <desc lang="el">Στο Underwood Springs, κάθε μέρα είναι μια όμορφη, χαρούμενη μέρα!Και κάθε πρωί ο ΝΟΝΟ ο γλυκός μας πλατυπόδαρος ξυπνάει με μια καταπληκτική νέα ιδέα που δεν βλέπει την ώρα να τη δοκιμάσει ….(n)</desc>
+  </programme>
+  <programme start="20250118063000 +0000" stop="20250118070000 +0000" channel="Smile TV">
+    <title lang="el">DIMITRI</title>
+    <desc lang="el">Εξαιτίας μιας σφοδρής καταιγίδας, ο Ντιμίτρι, ένα μικρό αποδημητικό πουλάκι που ταξιδεύει από την Ευρώπη με την οικογένειά του, χάνει τους γονείς του και πέφτει σε μια κοιλάδα στην Αφρική. Η Μακέμπα, η καμηλοπάρδαλη, αναλαμβάνει να τον φροντίσει και να τον προστατέψει μέχρι να ξαναβρεί τους γονείς του, ενώ ο μικρός Ντιμίτρι γνωρίζει νέους φίλους, νέα μέρη και την καθημερινή ζωή στην αφρικανική ήπειρο, που είναι γεμάτη περιπέτειες και εκπλήξεις!(n)</desc>
+  </programme>
+  <programme start="20250118070000 +0000" stop="20250118073000 +0000" channel="Smile TV">
+    <title lang="el">KIKORIKI</title>
+    <desc lang="el">Μια ομάδα κεφάτων φίλων που αποτελείται από έναν λαγό, ένα σκαντζόχοιρο και άλλα χαριτωμένα ζωάκια διασκεδάζει λύνοντας καθημερινά προβλήματα, λέγοντας ιστορίες και παίρνοντας πολύτιμα μαθήματα ζωής.(n)</desc>
+  </programme>
+  <programme start="20250118073000 +0000" stop="20250118080000 +0000" channel="Smile TV">
+    <title lang="el">Τατα</title>
+  </programme>
+  <programme start="20250118080000 +0000" stop="20250118083000 +0000" channel="Smile TV">
+    <title lang="el">Popples</title>
+    <desc lang="el">Το Popples είναι μια παιδική κωμική σειρά κινουμένων σχεδίων υψηλής ενέργειας για ένα καταπληκτικό είδος πλασμάτων που μπορούν να σκάσουν μέσα και έξω από μια μπάλα. Η ιστορία καθοδηγείται από τον αισιόδοξο κωμικό ενθουσιασμό των BPP (Best Popple Pals): Bubbles, Sunny, Lulu, Izzy και Yikes.(n)</desc>
+  </programme>
+  <programme start="20250118083000 +0000" stop="20250118090000 +0000" channel="Smile TV">
+    <title lang="el">LUCKY FRED</title>
+    <desc lang="el">O Φρεντ είναι πολύ τυχερός! Χάρη στο ρομπότ - «εξολοθρευτή» Φράιντεϊ,καταφέρνει με τη βοήθεια της Μπρέινς να προστατεύσει τον πλανήτη Γη. Ηαχτύπητη τριάδα σώζει το σύμπαν κάθε φορά που η ειρήνη απειλείται!(n)</desc>
+  </programme>
+  <programme start="20250118090000 +0000" stop="20250118093000 +0000" channel="Smile TV">
+    <title lang="el">Ratata</title>
+    <desc lang="el">Ελάτε να γνωρίσετε την ξεκαρδιστική παρέα των ΡΑΤ Α ΤΑΤ. Οι πανούργοι ποντικοί διασκεδάζουν τους μικρούς φίλους με τις αστείες τους περιπέτειες.(n)</desc>
+  </programme>
+  <programme start="20250118093000 +0000" stop="20250118100000 +0000" channel="Smile TV">
+    <title lang="el">Bat Pat</title>
+    <desc lang="el">Έχετε δει ποτέ νυχτερίδα που μιλάει; Δείτε τα συναρπαστικά επεισόδια της σειράς BAT PAT και απολαύστε τις τρομακτικές και ξεκαρδιστικές περιπέτειες της γλυκιάς νυχτερίδας και των φίλων της, Ρεμπέκα, Μάρτιν και Λίο.(n)</desc>
+  </programme>
+  <programme start="20250118100000 +0000" stop="20250118103000 +0000" channel="Smile TV">
+    <title lang="el">ΜΑΓΙΚΑ ΤΟΥΒΛΑΚΙΑ</title>
+    <desc lang="el">Ο Ντάνι και η οικογένειά του ζουν στη Παιχνιδούπολη. Με το μαγικό του ρολόι επικοινωνεί με τον Δόκτωρα Πέιμποτ κάθε φορά που υπάρχει πρόβλημα στην πόλη. Ο Μπόμπο, η Λούλου και ο Κόκο, τρία ρομπότ από τουβλάκια δημιουργούν όλα τα ήδη σχημάτων για να βοηθήσουν τον Ντάνι και τους φίλους του στην Παιχνιδούπολη.(n)</desc>
+  </programme>
+  <programme start="20250118103000 +0000" stop="20250118110000 +0000" channel="Smile TV">
+    <title lang="el">PACMAN</title>
+    <desc lang="el">Ο αγαπημένος ήρωας με την τεράστια όρεξη έρχεται ξανά κοντά σας με νέες περιπέτειες. Ο Πακμαν θα προσπαθήσει να σώσει για άλλη μια φορά τον ΚοσμοΠακ από τα σχέδια του Άρχοντα Μπιτρέιους και να βρει τους χαμένους γονείς του, με τη βοήθεια των φίλων του, Σίλι και Σπιράλ καθώς και τους Κυρίου Σι.(n)</desc>
+  </programme>
+  <programme start="20250118110000 +0000" stop="20250118113000 +0000" channel="Smile TV">
+    <title lang="el">Panda And Krash</title>
+    <desc lang="el">Ακολουθήστε τον τρελό κούνελο Κρας και τον φίλο του Panda στις πιο συναρπαστικές και ξεκαρδιστικές περιπέτειες, όταν ζωντανεύουν μέσα σε ένα κατάστημα παιχνιδιών. Οι μικροί μας ήρωες συναντούν ένα σωρό προκλήσεις που καλούνται να αντιμετωπίσουν, παίρνοντας ταυτόχρονα, πολύτιμα μαθήματα ζωής.(n)</desc>
+  </programme>
+  <programme start="20250118113000 +0000" stop="20250118120000 +0000" channel="Smile TV">
+    <title lang="el">Chloe's Closet</title>
+    <desc lang="el">Η Κλόη είναι μια χαριτωμένη μικρή, με μεγάλη φαντασία. Απολαύστε τις μαγικές περιπέτειες της γλυκιάς Κλόη και της παρέας της (Τara, Jet, Danny, Riley, Lillian, Mac και Carys) ενώ παίζουν στην ντουλάπα του δωματίου της.(n)</desc>
+  </programme>
+  <programme start="20250118120000 +0000" stop="20250118123000 +0000" channel="Smile TV">
+    <title lang="el">Sabrina - The Secrets Of A Teenage Which</title>
+    <desc lang="el">H Sabrina, ως έφηβη πλέον μάγισσα ζει δύο πολύ διαφορετικές ζωές.Από την μία εμφανίζεται ως μια κανονική μαθήτρια γυμνασίου και από την άλλη ως η κορυφαία μαθήτρια μαγείας στον κόσμο των μάγων. Όταν συγκρούονται οι δύο κόσμοι, η Sabrina είναι η μόνη που έχει τη δύναμη να πολεμήσει τους κακούς, ενώ καταφέρνει να κρατήσει τη μαγική ταυτότητά της μυστική από την ανθρωπότητα.(n)</desc>
+  </programme>
+  <programme start="20250118123000 +0000" stop="20250118130000 +0000" channel="Smile TV">
+    <title lang="el">Kate Mim Mim</title>
+    <desc lang="el">Η Κέιτ είναι ένα ζωηρό κορίτσι που, μαζί με τον Μιμ-Μιμ, τον αγαπημένο λαγό-παιχνίδι της, ταξιδεύει σε μία φανταστική χώρα, τη Μιμιλού, όπου ο Μιμ-Μιμ ζωντανεύει και γίνεται ένας μοναδικός σύντροφος.(n)</desc>
+  </programme>
+  <programme start="20250118130000 +0000" stop="20250118133000 +0000" channel="Smile TV">
+    <title lang="el">Chuggincton</title>
+    <desc lang="el">H Κόκο, o Γουίλσον και o Μπρούστερ, είναι τρία τρενάκια που διασχίζουν τις ράγες της πόλης Chuggington και μπλέκουν σε συναρπαστικές περιπέτειες που ενθαρρύνουν την ομαδικότητα, τη φιλία και τη διασκέδαση.(n)</desc>
+  </programme>
+  <programme start="20250118133000 +0000" stop="20250118140000 +0000" channel="Smile TV">
+    <title lang="el">KAELOO</title>
+    <desc lang="el">Ο Καελού, ο Κουακ Κουακ και ο Κύριος Γάτος ζουν με τους φίλους τους στην Σούπερ Ομορφοχώρα και βρίσκουν ένα σωρό διασκεδαστικούς τρόπους για να περάσουν τον χρόνο τους. Η ψυχαγωγία αποκτά καινούριο νόημα και οι κανόνες του παιχνιδιού αλλάζουν συνεχώς, προκαλώντας όμορφες περιπέτειες.(n)</desc>
+  </programme>
+  <programme start="20250118140000 +0000" stop="20250118143000 +0000" channel="Smile TV">
+    <title lang="el">SLASH</title>
+    <desc lang="el">Καλώς ήρθατε στις περιπέτειες μιας ομάδας πέντε νεαρών παιδιών από όλο τον κόσμο, που χάρη στη μαγική δύναμη του πράσινου πετραδιού μπορούν να μεταφέρονται σε όποια σελίδα του ίντερνετ θελήσουν, αντιμετωπίζοντας τους κακούς και παίρνοντας πολύτιμες διδακτικές εμπειρίες.(n)</desc>
+  </programme>
+  <programme start="20250118143000 +0000" stop="20250118150000 +0000" channel="Smile TV">
+    <title lang="el">Robinhood : Mischief In Sherwood</title>
+    <desc lang="el">Ο 10χρονος Ρομπέν των Δασών που μάχεται εναντίον του κακού και με τη συντροφιά των πιστών φίλων του Little John, Τακ, Μάριον και Σκάρλετ ανατρέπουν τα σχέδια του πονηρού Πρίγκιπα Ιωάννη.(n)</desc>
+  </programme>
+  <programme start="20250118150000 +0000" stop="20250118153000 +0000" channel="Smile TV">
+    <title lang="el">MIRACLE TUNES</title>
+    <desc lang="el">Η υπέροχη παρέα των Miracle Tunes έρχεται στην Ελλάδα για να σας διασκεδάσει και να σας ξεσηκώσει με τις φανταστικές μελωδίες της. Το συγκρότημα των κοριτσιών Miracle Tunes συγκεντρώνει ενέργεια από τις φαν του προκειμένου να αντιμετωπίσει έναν κακό δαίμονα και τους τρεις βοηθούς του που προσπαθούν να επιβάλλουν στη γη τις δυνάμεις του κακού.(n)</desc>
+  </programme>
+  <programme start="20250118153000 +0000" stop="20250118160000 +0000" channel="Smile TV">
+    <title lang="el">Κουλιπαρι - Ενας Στρατος Βατραχων</title>
+    <desc lang="el">Mια ομάδα ειρηνικών βατράχων ζει με ασφάλεια χάρη σε ένα μαγικό ξόρκι που ονομάζεται “Veil”. Ξαφνικά, το περιβάλλον τους απειλείται όταν ο βασιλιάς των αραχνών Jarrah και ο αρχηγός των σκορπιών Λόρδος Marmoo, ενώνονται μαζί για να καταστρέψουν το ξόρκι και να κατακτήσουν τους βατράχους... εκτός αν οι Kulipari, μια ομάδα βατράχων με υπερδυνάμεις,καταφέρουν να τους σταματήσουν.(n)</desc>
+  </programme>
+  <programme start="20250118160000 +0000" stop="20250118163000 +0000" channel="Smile TV">
+    <title lang="el">Power Rangers Dino Charge</title>
+    <desc lang="el">Ο μοχθηρός εξωγήινος Sledge προσπαθεί να κλέψει τη μεγαλύτερη δύναμη του σύμπαντος, τα ενεργειακά πετράδια. Όμως τα σχέδιά του θα ανατραπούν από μια νέα ομάδα ηρώων, τους Power Rangers, οι οποίοι καλούνται να σώσουν τα πετράδια και τον πλανήτη γη.(n)</desc>
+  </programme>
+  <programme start="20250118163000 +0000" stop="20250118170000 +0000" channel="Smile TV">
+    <title lang="el">Danger Mouse</title>
+    <desc lang="el">Ο μεγαλύτερος σούπερ κατάσκοπος στον κόσμο,o Danger Mouse επιστρέφει για να σώσει την ανθρωπότητα με τη βοήθεια του χάμστερ του, Penfold και μιας συλλογής υπερσύγχρονων gadget.(n)</desc>
+  </programme>
+  <programme start="20250118170000 +0000" stop="20250118173000 +0000" channel="Smile TV">
+    <title lang="el">Tobot</title>
+    <desc lang="el">Εξετάζοντας μια σειρά μυστηριωδών ατυχημάτων, ο Δρ Franklin Char απαγάγεται από τους δράστες. Αυτό το περιστατικό ενεργοποιεί τα"Tobots.(n)</desc>
+  </programme>
+  <programme start="20250118173000 +0000" stop="20250118180000 +0000" channel="Smile TV">
+    <title lang="el">Infinity Nado</title>
+    <desc lang="el">Μία παρέα τεσσάρων φίλων ανακαλύπτουν μυστηριώδη Nado.Όλοι μαζί συνεργάζονται για να ακυρώσουν το σχέδιο του Σκοτεινού Στοιχειού που θέλει να καταστρέψει τον κόσμο.Θα καταφέρουν να νικήσουν τους εχθρούς? Απίστευτη δράση, δυνατές μάχες και ισχυρά Nado!(n)</desc>
+  </programme>
+  <programme start="20250118180000 +0000" stop="20250118183000 +0000" channel="Smile TV">
+    <title lang="el">Όγκυ Και Οι Κατσαρίδες</title>
+    <desc lang="el">Ο Όγκι είναι μία μπλε γάτα, που περνά τις μέρες της ευχάριστα, τρώγοντας και βλέποντας τηλεόραση. Μόνο που στο ίδιο σπίτι ζουν και τρεις κατσαρίδες, που απολαμβάνουν να αναστατώνουν τη φαινομενικά ήρεμη ζωή του.(n)</desc>
+  </programme>
+  <programme start="20250118183000 +0000" stop="20250118190000 +0000" channel="Smile TV">
+    <title lang="el">INVENTION STORY</title>
+    <desc lang="el">Η Καροτοχώρα ήταν κάποτε μια ήσυχη πόλη χαμηλής τεχνολογίας, με κεριά, μηχανικά ρολόγια και ξυλόσομπες. Μέχρι που ήρθε στην πόλη ένας πανέξυπνος λαγός, ο Σίλας Χόπνερ. Με την βοήθεια μιας εφεύρεσης που μετατρέπει τα καρότα σε καύσιμα και πολλές άλλες εφευρέσεις καλυτερεύει τη ζωή όλων των κατοίκων ενώ μπλέκει σε πολύ διασκεδαστικές περιπέτειες.(n)</desc>
+  </programme>
+  <programme start="20250118190000 +0000" stop="20250118193000 +0000" channel="Smile TV">
+    <title lang="el">Treasure Island</title>
+    <desc lang="el">Ο Τζέιμς Χόκινς, ένας νεαρός Άγγλος του 18ου αιώνα, φιλοξενείται στο Βρετανικό Ναυαρχείο μαζί με τους υπόλοιπους δόκιμους της Βασιλικής Σχολής Αξιωματικών.(n)</desc>
+  </programme>
+  <programme start="20250118193000 +0000" stop="20250118200000 +0000" channel="Smile TV">
+    <title lang="el">DREAM CORPS</title>
+    <desc lang="el">Ο καταχθόνιος Ιncubus προσπαθεί να καταστρέψει να όμορφα όνειρα των παιδιών,κλέβοντας τη φαντασία τους! Όμως μια ομάδα σούπερ ηρώων, «Οι Μαχητές τωνΟνείρων», θα ανατρέψουν τα σχέδιά του προστατεύοντας τα όνειρα των παιδιώνμέσα από υπέροχες περιπέτειες.(n)</desc>
+  </programme>
+  <programme start="20250118200000 +0000" stop="20250118203000 +0000" channel="Smile TV">
+    <title lang="el">ZOMBIE DUMB</title>
+    <desc lang="el">O κόσμος έχει γεμίσει με ζόμπι! Όλα έχουν καταστραφεί και το μόνο που έχει μείνει πίσω είναι κάποια παιδιά ζόμπι, με διαφορετικές προσωπικότητες που περνούν διασκεδαστικές περιπέτειες.(n)</desc>
+  </programme>
+  <programme start="20250118203000 +0000" stop="20250118210000 +0000" channel="Smile TV">
+    <title lang="el">SUPER DETECTIVES</title>
+    <desc lang="el">Σε ένα μακρινό, πολύ μακρινό γαλαξία, πέρα από τεράστιες τρύπες, αψηφώντας το χωροχρόνο και τη βαρύτητα, υπάρχει ένας εξωγήινος πολιτισμός, πολύ πιο εξελιγμένος από την Γη. Τι θα γινόταν αν οι εξωγήινοι φίλοι μας μετακόμιζαν στη Γη για να ζήσουν μαζί με τους ανθρώπους; Αάνμεσά τους θα βρεθεί και ο Μπέι, ένας διαγαλαξιακός ντετέκτιβ που έρχεται στην Γη για να κυνηγήσει παράνομους εξωγήινους.(n)</desc>
+  </programme>
+  <programme start="20250118210000 +0000" stop="20250118213000 +0000" channel="Smile TV">
+    <title lang="el">Όγκυ Και Οι Κατσαρίδες</title>
+    <desc lang="el">Ο Όγκι είναι μία μπλε γάτα, που περνά τις μέρες της ευχάριστα, τρώγοντας και βλέποντας τηλεόραση. Μόνο που στο ίδιο σπίτι ζουν και τρεις κατσαρίδες, που απολαμβάνουν να αναστατώνουν τη φαινομενικά ήρεμη ζωή του.(n)</desc>
+  </programme>
+  <programme start="20250118213000 +0000" stop="20250118220000 +0000" channel="Smile TV">
+    <title lang="el">INVENTION STORY</title>
+    <desc lang="el">Η Καροτοχώρα ήταν κάποτε μια ήσυχη πόλη χαμηλής τεχνολογίας, με κεριά, μηχανικά ρολόγια και ξυλόσομπες. Μέχρι που ήρθε στην πόλη ένας πανέξυπνος λαγός, ο Σίλας Χόπνερ. Με την βοήθεια μιας εφεύρεσης που μετατρέπει τα καρότα σε καύσιμα και πολλές άλλες εφευρέσεις καλυτερεύει τη ζωή όλων των κατοίκων ενώ μπλέκει σε πολύ διασκεδαστικές περιπέτειες.(n)</desc>
+  </programme>
+  <programme start="20250118220000 +0000" stop="20250118223000 +0000" channel="Smile TV">
+    <title lang="el">Pincode</title>
+    <desc lang="el">Μια ομάδα κεφάτων φίλων που αποτελείται από έναν λαγό, ένα σκαντζόχοιρο και άλλα χαριτωμένα ζωάκια διασκεδάζει λύνοντας καθημερινά προβλήματα, λέγοντας ιστορίες και παίρνοντας πολύτιμα μαθήματα ζωής.(n)</desc>
+  </programme>
+  <programme start="20250118223000 +0000" stop="20250118230000 +0000" channel="Smile TV">
+    <title lang="el">Κουλιπαρι - Ενας Στρατος Βατραχων</title>
+    <desc lang="el">Mια ομάδα ειρηνικών βατράχων ζει με ασφάλεια χάρη σε ένα μαγικό ξόρκι που ονομάζεται “Veil”. Ξαφνικά, το περιβάλλον τους απειλείται όταν ο βασιλιάς των αραχνών Jarrah και ο αρχηγός των σκορπιών Λόρδος Marmoo, ενώνονται μαζί για να καταστρέψουν το ξόρκι και να κατακτήσουν τους βατράχους... εκτός αν οι Kulipari, μια ομάδα βατράχων με υπερδυνάμεις,καταφέρουν να τους σταματήσουν.(n)</desc>
+  </programme>
+  <programme start="20250118230000 +0000" stop="20250118233000 +0000" channel="Smile TV">
+    <title lang="el">PACMAN</title>
+    <desc lang="el">Ο αγαπημένος ήρωας με την τεράστια όρεξη έρχεται ξανά κοντά σας με νέες περιπέτειες. Ο Πακμαν θα προσπαθήσει να σώσει για άλλη μια φορά τον ΚοσμοΠακ από τα σχέδια του Άρχοντα Μπιτρέιους και να βρει τους χαμένους γονείς του, με τη βοήθεια των φίλων του, Σίλι και Σπιράλ καθώς και τους Κυρίου Σι.(n)</desc>
+  </programme>
+  <programme start="20250118233000 +0000" stop="20250119000000 +0000" channel="Smile TV">
+    <title lang="el">Danger Mouse</title>
+    <desc lang="el">Ο μεγαλύτερος σούπερ κατάσκοπος στον κόσμο,o Danger Mouse επιστρέφει για να σώσει την ανθρωπότητα με τη βοήθεια του χάμστερ του, Penfold και μιας συλλογής υπερσύγχρονων gadget.(n)</desc>
+  </programme>
+  <programme start="20250118070000 +0000" stop="20250118074500 +0000" channel="ERT">
+    <title lang="el">ΕΙΔΗΣΕΙΣ - ΑΘΛΗΤΙΚΑ - ΚΑΙΡΟΣ</title>
+    <desc lang="el">Παρουσίαση: Με τον Αντώνη Αλαφογιώργο.(n)</desc>
+  </programme>
+  <programme start="20250118074500 +0000" stop="20250118080000 +0000" channel="ERT">
+    <title lang="el">Περιφερειακή Ανάπτυξη</title>
+    <desc lang="el">Δεκάλεπτη εβδομαδιαία για την επικαιρότητα που αφορά στις αναπτυξιακές προοπτικές της ελληνικής περιφέρειας, με έμφαση στις ιδιαίτερες ανάγκες και τα ζητήματα των τοπικών κοινωνιών.(n)</desc>
+  </programme>
+  <programme start="20250118080000 +0000" stop="20250118080500 +0000" channel="ERT">
+    <title lang="el">ΕΙΔΗΣΕΙΣ</title>
+    <desc lang="el">Νέο πρόγραμμα, νέες συνήθειες με... τις σταθερές αξίες της πρωινής ενημερωτικής ζώνης της ΕΡΤ να ενώνουν τις δυνάμεις τους. Ο Δημήτρης Κοτταρίδης «Από τις έξι» συναντά τη Νίνα Κασιμάτη στο «Σαββατοκύριακο». Και οι δύο θα παρουσιάζουν τη νέα ενημερωτική εκπομπή της ΕΡΤ «Σαββατοκύριακο από τις 6» με ειδήσεις, ιστορίες, πρόσωπα, εικόνες και φυσικά πολύ χιούμορ. Από το Σάββατο 10 Σεπτεμβρίου 2022, και κάθε Σαββατοκύριακο συντονιστείτε στην ΕΡΤ1 και στο EΡΤNEWS στο «Σαββατοκύριακο από τις 6».(n)</desc>
+  </programme>
+  <programme start="20250118080500 +0000" stop="20250118100000 +0000" channel="ERT">
+    <title lang="el">News Room</title>
+    <desc lang="el">Up-to-date coverage of all the events happening in Greece and around the world, with the dynamic presence of reporters and correspondents of ERT.(n)</desc>
+  </programme>
+  <programme start="20250118100000 +0000" stop="20250118110000 +0000" channel="ERT">
+    <title lang="el">ΕΙΔΗΣΕΙΣ - ΑΘΛΗΤΙΚΑ - ΚΑΙΡΟΣ</title>
+    <desc lang="el">Παρουσίαση: Με τον Αντώνη Αλαφογιώργο.(n)</desc>
+  </programme>
+  <programme start="20250118110000 +0000" stop="20250118130000 +0000" channel="ERT">
+    <title lang="el">Το Αλάτι της Γης (E)</title>
+    <desc lang="el">Η εκπομπή «Το Αλάτι της Γης» και ο Λάμπρος Λιάβας υποδέχονται το συγκρότημα «Ηπειρώτικο Τακίμι» από τα Γιάννενα. Αποτελείται από τους μουσικούς Κώστα Καραπάνο (βιολί), Αλέξανδρο Λιοκάτη (κλαρίνο-φλογέρα), Γιώργο Γκούβα (τραγούδι), Μάριο Τούμπα (λαούτο) και Τάσο Ντάφλο (ντέφι).(n)</desc>
+  </programme>
+  <programme start="20250118130000 +0000" stop="20250118140000 +0000" channel="ERT">
+    <title lang="el">ΕΙΔΗΣΕΙΣ - ΑΘΛΗΤΙΚΑ - ΚΑΙΡΟΣ</title>
+    <desc lang="el">Παρουσίαση: Με τον Αντώνη Αλαφογιώργο.(n)</desc>
+  </programme>
+  <programme start="20250118040000 +0000" stop="20250118044000 +0000" channel="4E">
+    <title lang="el">ΑΚΟΛΟΥΘΙΑ ΤΗΣ ΘΕΙΑΣ ΜΕΤΑΛΗΨΕΩΣ</title>
+    <desc lang="el">Ιερά Μονή Αγίας Τριάδος Σπαρμού Ολύμπου.(n)</desc>
+  </programme>
+  <programme start="20250118044000 +0000" stop="20250118052500 +0000" channel="4E">
+    <title lang="el">ΑΚΟΛΟΥΘΙΑ ΤΟΥ ΜΕΣΟΝΥΚΤΙΚΟΥ</title>
+    <desc lang="el">Ιερά Μονή Αγίας Τριάδος Σπαρμού Ολύμπου.(n)</desc>
+  </programme>
+  <programme start="20250118052500 +0000" stop="20250118053000 +0000" channel="4E">
+    <title lang="el">ΕΘΝΙΚΟΣ ΥΜΝΟΣ</title>
+    <desc lang="el">Λευκός Πύργος - Θεσσαλονίκη.(n)</desc>
+  </programme>
+  <programme start="20250118053000 +0000" stop="20250118074500 +0000" channel="4E">
+    <title lang="el">ΟΡΘΡΟΣ - ΘΕΙΑ ΛΕΙΤΟΥΡΓΙΑ</title>
+    <desc lang="el">Ορθόδοξη Αδελφότητα "Αγία Λυδία" - Ασπροβάλτα Θεσσαλονίκης.(n)</desc>
+  </programme>
+  <programme start="20250118074500 +0000" stop="20250118080000 +0000" channel="4E">
+    <title lang="el">ΕΥΧΑΡΙΣΤΙΑ ΜΕΤΑ ΤΗΝ ΘΕΙΑ ΜΕΤΑΛΗΨΗ</title>
+    <desc lang="el">Ιερά Μονή Αγίας Τριάδος Σπαρμού Ολύμπου.(n)</desc>
+  </programme>
+  <programme start="20250118080000 +0000" stop="20250118083000 +0000" channel="4E">
+    <title lang="el">ΘΕΜΑΤΑ ΘΕΟΛΟΓΙΑΣ</title>
+    <desc lang="el">Θέμα: Πλούσιος και Λάζαρος. Ο έγκριτος Καθηγητής Θεολογίας κ. Νίκος Νικολαΐδης παραδίδει από τηλεοράσεως μαθήματα Θεολογίας. Γνωρίζουμε τα βαθιά νοήματα της πίστεώς μας, σε μια διδασκαλία που... καθηλώνει!(n)</desc>
+  </programme>
+  <programme start="20250118083000 +0000" stop="20250118093000 +0000" channel="4E">
+    <title lang="el">ΙΑΤΡΙΚΗ ΕΝΗΜΕΡΩΣΗ</title>
+    <desc lang="el">Με τον κ. Παύλο Φιρινίδη, Νευρολόγο. Θέμα: Παθήσεις στη Νευροχειρουργική - Καλεσμένος: Δημήτριος Κλιτσινίκος, Στρατιωτικός Ιατρός - Νευροχειρουργός - FEBNS.(n)</desc>
+  </programme>
+  <programme start="20250118093000 +0000" stop="20250118100000 +0000" channel="4E">
+    <title lang="el">ΟΛΑ ΓΙΑ ΤΟ ΠΑΙΔΙ ΚΑΙ ΤΗΝ ΟΙΚΟΓΕΝΕΙΑ</title>
+    <desc lang="el">Με την Πέπη Κολαρά, Λογοθεραπεύτρια-Ειδική Παιδαγωγό.(n)</desc>
+  </programme>
+  <programme start="20250118100000 +0000" stop="20250118110000 +0000" channel="4E">
+    <title lang="el">ΑΝΑΔΙΦΗΣΕΙΣ ΣΤΗΝ ΙΣΤΟΡΙΑ ΚΑΙ ΤΟΝ ΠΟΛΙΤΙΣΜΟ</title>
+    <desc lang="el">Με την κ. Ερατώ Ζέλλιου-Μαστοροκώστα, Δρ. Ιστορίας Α.Π.Θ. Θέμα: Οι Ολυμπιακοί Αγώνες. Καλεσμένος: Δημήτρης Κοκκινάκης, Ταξίαρχος Πολεμικής Αεροπορίας ε.α.-Ιστορικός Συγγραφέας. Συζητήσεις για την πορεία της ελληνικής ιστορίας και του πολιτισμού από τα προϊστορικά χρόνια μέχρι σήμερα.(n)</desc>
+  </programme>
+  <programme start="20250118110000 +0000" stop="20250118120000 +0000" channel="4E">
+    <title lang="el">ΣΚΕΨΕΙΣ, ΚΡΙΣΕΙΣ, ΣΧΟΛΙΑ</title>
+    <desc lang="el">Διεθνές Επιστημονικό Συνέδριο με τίτλο «Κύπρος και Ρωμιοσύνη» - Διοργάνωση: Ιερά Μητρόπολη Νέας Κρήνης και Καλαμαριάς - Ιερά Μεγίστη Μονή Βατοπαιδίου - Κέντρο Πολιτισμού Περιφέρειας Κεντρικής Μακεδονίας. Καταγραφή και προβολή των εργασιών επιστημονικών, θεολογικών, παιδαγωγικών, εκπαιδευτικών συνεδρίων.(n)</desc>
+  </programme>
+  <programme start="20250118120000 +0000" stop="20250118123000 +0000" channel="4E">
+    <title lang="el">ΤΑΞΙΔΙΑ</title>
+    <desc lang="el">Στο ναό του Χολομώντα. Ταξιδιωτικές περιηγήσεις σε γωνιές της Ελλάδας.(n)</desc>
+  </programme>
+  <programme start="20250118123000 +0000" stop="20250118130000 +0000" channel="4E">
+    <title lang="el">ΕΞ ΕΡΗΜΟΥ ΔΙΑΤΥΠΩΣΕΙΣ: ΣΠΟΥΔΗ ΣΤΟΝ ΕΥΕΡΓΕΤΙΝΟ</title>
+    <desc lang="el">Με τον π. Ανδρέα Γκατζέλη - Θέμα: Άσκηση με διάκριση.(n)</desc>
+  </programme>
+  <programme start="20250118130000 +0000" stop="20250118132000 +0000" channel="4E">
+    <title lang="el">ΕΝΑΤΗ ΩΡΑ</title>
+    <desc lang="el">Η μεσημβρινή προσευχή της Εκκλησίας μας.(n)</desc>
+  </programme>
+  <programme start="20250118132000 +0000" stop="20250118134000 +0000" channel="4E">
+    <title lang="el">ΑΓΙΟΓΡΑΦΙΚΑ ΑΝΑΓΝΩΣΜΑΤΑ</title>
+    <desc lang="el">Το Ευαγγελικό - Αποστολικό Ανάγνωσμα και το Συναξάρι της ημέρας.(n)</desc>
+  </programme>
+  <programme start="20250118134000 +0000" stop="20250118135000 +0000" channel="4E">
+    <title lang="el">ΗΜΕΡΟΛΟΓΙΟ</title>
+  </programme>
+  <programme start="20250118135000 +0000" stop="20250118140000 +0000" channel="4E">
+    <title lang="el">ΛΕΞΕΙΣ ΚΑΙ ΕΝΝΟΙΕΣ</title>
+    <desc lang="el">Α΄ συνθετικό μεγάλος. Εκπομπή για την ελληνική γλώσσα. Παρουσιάζει τη σωστή χρήση λέξεων και παροιμιωδών εκφράσεων.(n)</desc>
+  </programme>
+  <programme start="20250118140000 +0000" stop="20250118145000 +0000" channel="4E">
+    <title lang="el">ΤΗΛΕΣΧΟΛΕΙΟ ΨΑΛΤΙΚΗΣ</title>
+    <desc lang="el">Με τον πρωτοψάλτη Πάρη Γκούνα, Θεολόγο-Μουσικοδιδάσκαλο.(n)</desc>
+  </programme>
+  <programme start="20250118145000 +0000" stop="20250118151000 +0000" channel="4E">
+    <title lang="el">ΜΙΚΡΟ ΣΥΝΑΞΑΡΙ</title>
+    <desc lang="el">Άγιος Ιερομάρτυς Λουκιανός. Ευχάριστοι και διδακτικοί βίοι Αγίων με εικονογράφηση και διαλόγους για τους μικρούς μας φίλους.(n)</desc>
+  </programme>
+  <programme start="20250118151000 +0000" stop="20250118160000 +0000" channel="4E">
+    <title lang="el">ΠΑΙΧΝΙΔΟΠΑΓΙΔΕΣ</title>
+    <desc lang="el">Τηλεπαιχνίδι γνώσεων για παιδιά.(n)</desc>
+  </programme>
+  <programme start="20250118160000 +0000" stop="20250118164000 +0000" channel="4E">
+    <title lang="el">ΑΚΟΛΟΥΘΙΑ ΤΟΥ ΕΣΠΕΡΙΝΟΥ</title>
+    <desc lang="el">Ιερός Ναός Αγίας Λυδίας - Ασπροβάλτα Θεσσαλονίκης.(n)</desc>
+  </programme>
+  <programme start="20250118164000 +0000" stop="20250118175000 +0000" channel="4E">
+    <title lang="el">ΜΟΥΣΙΚΗ ΕΚΔΗΛΩΣΗ</title>
+    <desc lang="el">Αφιέρωμα στο Μακεδονικό Παραδοσιακό Τραγούδι - Μουσικό Σχήμα "Επιμένουμε Παραδοσιακά".(n)</desc>
+  </programme>
+  <programme start="20250118175000 +0000" stop="20250118180500 +0000" channel="4E">
+    <title lang="el">ΑΦΙΕΡΩΜΑΤΑ ΣΕ ΑΓΙΟΥΣ</title>
+    <desc lang="el">Αγία Αικατερίνη.(n)</desc>
+  </programme>
+  <programme start="20250118180500 +0000" stop="20250118190000 +0000" channel="4E">
+    <title lang="el">ΤΟ ΜΕΓΑΛΕΙΟ ΤΗΣ ΕΛΛΗΝΙΚΗΣ ΓΛΩΣΣΑΣ</title>
+    <desc lang="el">Με τον κ. Κυριάκο Χρυσοστομίδη, Φιλόλογο.(n)</desc>
+  </programme>
+  <programme start="20250118190000 +0000" stop="20250118200000 +0000" channel="4E">
+    <title lang="el">ΠΡΟΣΕΓΓΙΣΕΙΣ</title>
+    <desc lang="el">Καλεσμένος του π. Θεόφιλου Ζησόπουλου είναι ο π. Χρυσόστομος Μαϊδώνης. Θέμα: Ο Μέγας Αντώνιος. Συζητήσεις με Επισκόπους και Καθηγητές Πανεπιστημίου για θέματα πνευματικής οικοδομής, λειτουργικά και κοινωνικά.(n)</desc>
+  </programme>
+  <programme start="20250118200000 +0000" stop="20250118204500 +0000" channel="4E">
+    <title lang="el">ΛΟΓΟΣ ΛΕΙΤΟΥΡΓΙΚΟΣ</title>
+    <desc lang="el">Με τον κ. Παναγιώτη Σκαλτσή, Καθηγητή Λειτουργικής Θεολογικής Σχολής ΑΠΘ.(n)</desc>
+  </programme>
+  <programme start="20250118204500 +0000" stop="20250118210000 +0000" channel="4E">
+    <title lang="el">ΠΡΟΣΕΥΧΟΜΑΣΤΕ ΜΑΖΙ</title>
+    <desc lang="el">Κοινή προσευχή.(n)</desc>
+  </programme>
+  <programme start="20250118210000 +0000" stop="20250118214000 +0000" channel="4E">
+    <title lang="el">ΜΙΚΡΟ ΑΠΟΔΕΙΠΝΟ ΜΕ ΘΕΙΑ ΜΕΤΑΛΗΨΗ</title>
+    <desc lang="el">Ιερά Μονή Αγίας Τριάδος Σπαρμού Ολύμπου - Ιερός Ναός Αγίας Τριάδος.(n)</desc>
+  </programme>
+  <programme start="20250118214000 +0000" stop="20250119000000 +0000" channel="4E">
+    <title lang="el">ΟΡΘΡΟΣ - ΘΕΙΑ ΛΕΙΤΟΥΡΓΙΑ</title>
+    <desc lang="el">Ορθόδοξη Αδελφότητα "Αγία Λυδία" - Ασπροβάλτα Θεσσαλονίκης.(n)</desc>
+  </programme>
+  <programme start="20250118040000 +0000" stop="20250118060000 +0000" channel="RIK HD">
+    <title lang="el">RIK HD</title>
+    <desc lang="el">Το κανάλι υψηλής ευκρίνειας του ΡΙΚ. Μεταδίδει διάφορες ψυχαγωγικές και ενημερωτικές εκπομπές καθώς και αθλητικά γεγονότα.(n)</desc>
+  </programme>
+  <programme start="20250118060000 +0000" stop="20250118080000 +0000" channel="RIK HD">
+    <title lang="el">RIK HD</title>
+    <desc lang="el">Το κανάλι υψηλής ευκρίνειας του ΡΙΚ. Μεταδίδει διάφορες ψυχαγωγικές και ενημερωτικές εκπομπές καθώς και αθλητικά γεγονότα.(n)</desc>
+  </programme>
+  <programme start="20250118080000 +0000" stop="20250118100000 +0000" channel="RIK HD">
+    <title lang="el">RIK HD</title>
+    <desc lang="el">Το κανάλι υψηλής ευκρίνειας του ΡΙΚ. Μεταδίδει διάφορες ψυχαγωγικές και ενημερωτικές εκπομπές καθώς και αθλητικά γεγονότα.(n)</desc>
+  </programme>
+  <programme start="20250118100000 +0000" stop="20250118120000 +0000" channel="RIK HD">
+    <title lang="el">RIK HD</title>
+    <desc lang="el">Το κανάλι υψηλής ευκρίνειας του ΡΙΚ. Μεταδίδει διάφορες ψυχαγωγικές και ενημερωτικές εκπομπές καθώς και αθλητικά γεγονότα.(n)</desc>
+  </programme>
+  <programme start="20250118120000 +0000" stop="20250118140000 +0000" channel="RIK HD">
+    <title lang="el">RIK HD</title>
+    <desc lang="el">Το κανάλι υψηλής ευκρίνειας του ΡΙΚ. Μεταδίδει διάφορες ψυχαγωγικές και ενημερωτικές εκπομπές καθώς και αθλητικά γεγονότα.(n)</desc>
+  </programme>
+  <programme start="20250118140000 +0000" stop="20250118160000 +0000" channel="RIK HD">
+    <title lang="el">RIK HD</title>
+    <desc lang="el">Το κανάλι υψηλής ευκρίνειας του ΡΙΚ. Μεταδίδει διάφορες ψυχαγωγικές και ενημερωτικές εκπομπές καθώς και αθλητικά γεγονότα.(n)</desc>
+  </programme>
+  <programme start="20250118160000 +0000" stop="20250118180000 +0000" channel="RIK HD">
+    <title lang="el">RIK HD</title>
+    <desc lang="el">Το κανάλι υψηλής ευκρίνειας του ΡΙΚ. Μεταδίδει διάφορες ψυχαγωγικές και ενημερωτικές εκπομπές καθώς και αθλητικά γεγονότα.(n)</desc>
+  </programme>
+  <programme start="20250118180000 +0000" stop="20250118200000 +0000" channel="RIK HD">
+    <title lang="el">RIK HD</title>
+    <desc lang="el">Το κανάλι υψηλής ευκρίνειας του ΡΙΚ. Μεταδίδει διάφορες ψυχαγωγικές και ενημερωτικές εκπομπές καθώς και αθλητικά γεγονότα.(n)</desc>
+  </programme>
+  <programme start="20250118200000 +0000" stop="20250118220000 +0000" channel="RIK HD">
+    <title lang="el">RIK HD</title>
+    <desc lang="el">Το κανάλι υψηλής ευκρίνειας του ΡΙΚ. Μεταδίδει διάφορες ψυχαγωγικές και ενημερωτικές εκπομπές καθώς και αθλητικά γεγονότα.(n)</desc>
+  </programme>
+  <programme start="20250118220000 +0000" stop="20250119000000 +0000" channel="RIK HD">
+    <title lang="el">RIK HD</title>
+    <desc lang="el">Το κανάλι υψηλής ευκρίνειας του ΡΙΚ. Μεταδίδει διάφορες ψυχαγωγικές και ενημερωτικές εκπομπές καθώς και αθλητικά γεγονότα.(n)</desc>
+  </programme>
+  <programme start="20250118043500 +0000" stop="20250118060500 +0000" channel="Movies Best HD">
+    <title lang="el">A Christmas Vintage</title>
+    <desc lang="el">Για να βοηθήσει την αδελφή της που δεν μπορεί να είναι με αυτόν που αγαπά, η Σαμάνθα αναλαμβάνει να γοητεύσει τον δύστροπο ιδιοκτήτη ενός οινοποιείου. Ρομαντική ταινία σε σκηνοθεσία Κόλιν Μπαντς με τους: Κάρλι Έλντριτζ, Ιγκνάσιο Ματίνια, Μάντισον Μπούλοκ, Ριντ Ρέιδορ.(n)</desc>
+  </programme>
+  <programme start="20250118060500 +0000" stop="20250118074500 +0000" channel="Movies Best HD">
+    <title lang="el">The Red Shoes And The Seven Dwarves</title>
+    <desc lang="el">ΤΑ ΚΟΚΚΙΝΑ ΓΟΒΑΚΙΑ ΚΑΙ ΟΙ ΕΠΤΑ ΝΑΝΟΙ. Επτά πρίγκηπες που έχουν μετατραπεί σε νάνους, αναζητούν τα κόκκινα παπούτσια μιας κυρίας για να σπάσουν ένα παλιό ξόρκι. Ταινία κινουμένων σχεδίων σε σκηνοθεσία Σανγκ-χο Χονγκ, Μου-Χιούν Τζάνγκ, Γιανγκ Σικ Αμ; μεταγλωττισμένο στα ελληνικά.(n)</desc>
+  </programme>
+  <programme start="20250118074500 +0000" stop="20250118094500 +0000" channel="Movies Best HD">
+    <title lang="el">Knox Goes Away</title>
+    <desc lang="el">ΤΟ ΧΡΕΟΣ ΤΟΥ ΕΚΤΕΛΕΣΤΗ. Ένας πληρωμένος δολοφόνος που έχει διαγνωστεί με άνοια έχει μια τελευταία ευκαιρία να εξιλεωθεί σώζοντας τη ζωή του αποξενωμένου γιου του. Θρίλερ παραγωγής 2023 σε σκηνοθεσία Μάικλ Κίτον με τους: Μάικλ Κίτον, Τζέιμς Μάρσντεν, Μάρσια Γκέι Χάρντεν, Αλ Πατσίνο.(n)</desc>
+  </programme>
+  <programme start="20250118094500 +0000" stop="20250118104500 +0000" channel="Movies Best HD">
+    <title lang="el">Mary Pickford: A Blessing And A Curse</title>
+    <desc lang="el">Mary Pickford, a legend of American cinema, was the one who pioneered the star system at the beginning of the 20th century, becoming the biggest star at a time when actors didn’t even have their names on movie posters.(n)</desc>
+  </programme>
+  <programme start="20250118104500 +0000" stop="20250118125000 +0000" channel="Movies Best HD">
+    <title lang="el">The Road Dance</title>
+    <desc lang="el">Μια νεαρή κοπέλα ζει σ’ ένα απόμερο χωριό της Σκωτίας στα χρόνια αμέσως πριν τον Α’ Παγκόσμιο Πόλεμο. Η ζωή της αλλάζει δραματικά όταν μια φοβερή τραγωδία την χτυπά. Δράμα παραγωγής 2021 σε σκηνοθεσία Ρίτσι Άνταμς με τους: Χερμιόνι Κόρφιλντ, Μόρβεν Κρίστι, Γουίλ Φλέτσερ, Τζεφ Στιούαρτ.(n)</desc>
+  </programme>
+  <programme start="20250118125000 +0000" stop="20250118151500 +0000" channel="Movies Best HD">
+    <title lang="el">Everything Everywhere All At Once</title>
+    <desc lang="el">ΤΑ ΠΑΝΤΑ ΟΛΑ. Η Έβελιν Γουάνγκ, μια μεσήλικας Κινέζα μετανάστρια, παρασύρεται σε μια αλλόκοτη περιπέτεια όπου είναι η μόνη που μπορεί να σώσει τον κόσμο εξερευνώντας άλλα σύμπαντα που συνδέονται με τις ζωές που θα μπορούσε να είχε ζήσει. Περιπέτεια παραγωγής 2022 σε σκηνοθεσία Ντάνιελ Κουάν &amp; Ντάνιελ Σάινερτ με τους: Μισέλ Γέο, Στέφανι Χσου, Τζέιμς Χονγκ, Τζέιμι Λι Κέρτις.(n)</desc>
+  </programme>
+  <programme start="20250118151500 +0000" stop="20250118170000 +0000" channel="Movies Best HD">
+    <title lang="el">One Crazy Thing</title>
+    <desc lang="el">Η ζωή του Τζέι, πρώην τηλεοπτικού αστέρα, έπιασε πάτο μέχρι που γνώρισε το κορίτσι των ονείρων του, τη Χάνα. Πώς όμως να πει στη Χάνα ότι είναι πασίγνωστος στο ίντερνετ λόγω ενός βίντεο με σεξουαλικό περιεχόμενο; Ρομαντική κωμωδία παραγωγής 2016 σε σκηνοθεσία Άμιτ Γκούπτα με τους: Ρέι Παντάκι, Ντέιζι Μπέβαν, Νταν Ρέντον Σκίνερ, Ριάν Στιλ.(n)</desc>
+  </programme>
+  <programme start="20250118170000 +0000" stop="20250118190000 +0000" channel="Movies Best HD">
+    <title lang="el">Arthur The King</title>
+    <desc lang="el">ΑΡΘΟΥΡ Ο ΒΑΣΙΛΙΑΣ. Μια ομάδα αθλητών που λαμβάνει μέρος σε αγώνα περιπέτειας, ακολουθείται από ένα αδέσποτο σκυλί. Ο αρχηγός της ομάδας αποφασίζει να αφήσει το σκυλί να τρέξει μαζί τους σε μια επική κούρσα αντοχής. Περιπέτεια παραγωγής 2024 σε σκηνοθεσία Σάιμον Κέθλαν Τζόουνς με τους: Μαρκ Γουόλμπεργκ, Σίμου Λίου, Νάταλι Εμάνουελ, Μπέαρ Γκριλς.(n)</desc>
+  </programme>
+  <programme start="20250118190000 +0000" stop="20250118210000 +0000" channel="Movies Best HD">
+    <title lang="el">The Requin</title>
+    <desc lang="el">ΣΤΑ ΔΟΝΤΙΑ ΤΟΥ ΚΑΡΧΑΡΙΑ. Ένα ζευγάρι που κάνει διακοπές, βρίσκεται ξαφνικά στη μέση του ωκεανού όταν μια καταιγίδα παρασύρει το σπιτάκι τους. Για να επιβιώσουν πρέπει να παλέψουν με τα στοιχεία της φύσης και τους καρχαρίες που τους έχουν περικυκλώσει. Θρίλερ παραγωγής 2022 σε σκηνοθεσία Λι-Βαν Κιτ με τους: Αλίσια Σίλβερστοουν, Τζέιμς Τάπερ, Ντίντρε Ο’Κόνελ, Τζένιφερ Ματζ.(n)</desc>
+  </programme>
+  <programme start="20250118210000 +0000" stop="20250118220500 +0000" channel="Movies Best HD">
+    <title lang="el">The Twelve 1</title>
+    <desc lang="el">EP. 3 -  Η καλύτερη φίλη της Κλερ καλείται να καταθέσει. Η δίκη γίνεται όλο και πιο περίπλοκη. Το ίδιο και οι σχέσεις μεταξύ των ενόρκων. Αστυνομική σειρά παραγωγής 2022 σε σκηνοθεσία Γκρεγκ ΜακΛιν με τους: Σαμ Νιλ, Κέιτ Μαλβέινι, Ματ Νέιμπλ, Μάρτα Ντίσελντορπ.(n)</desc>
+  </programme>
+  <programme start="20250118220500 +0000" stop="20250119000000 +0000" channel="Movies Best HD">
+    <title lang="el">The Trip To Greece</title>
+    <desc lang="el">ΤΑΞΙΔΙ ΣΤΗΝ ΕΛΛΑΔΑ. Δυο παλιόφιλοι ταξιδεύουν στην Ελλάδα θέλοντας να ακολουθήσουν τα βήματα του Οδυσσέα, από την Τροία στην Ιθάκη. Κωμωδία παραγωγής 2020 σε σκηνοθεσία Μάικλ Γουίντερμποτομ με τους: Στιβ Κούγκαν, Ρομπ Μπράιντον, Κλερ Κίλαν, Ρεμπέκα Τζόνσον.(n)</desc>
+  </programme>
+  <programme start="20250118031000 +0000" stop="20250118033500 +0000" channel="FOX HD">
+    <title lang="el">Brooklyn Nine-Nine 7</title>
+    <desc lang="el">Adrian Pimento shows up unexpectedly to seek Jake and Charles' help after claiming someone is trying to kill him.(n)</desc>
+  </programme>
+  <programme start="20250118033500 +0000" stop="20250118040000 +0000" channel="FOX HD">
+    <title lang="el">Brooklyn Nine-Nine 7</title>
+    <desc lang="el">Competitive juices are flowing as Jake and the squad compete in the second Jimmy Jab Games.(n)</desc>
+  </programme>
+  <programme start="20250118040000 +0000" stop="20250118044500 +0000" channel="FOX HD">
+    <title lang="el">9-1-1: Lone Star 4</title>
+    <desc lang="el">Grace and Carlos suspect a young woman was a victim of an organ trafficking ring.(n)</desc>
+  </programme>
+  <programme start="20250118044500 +0000" stop="20250118053500 +0000" channel="FOX HD">
+    <title lang="el">9-1-1: Lone Star 4</title>
+    <desc lang="el">When Tommy and Judd disagree on protocol during a rescue at paper mill, a full-on feud develops between the 126 EMS and Fire.(n)</desc>
+  </programme>
+  <programme start="20250118053500 +0000" stop="20250118062000 +0000" channel="FOX HD">
+    <title lang="el">9-1-1: Lone Star 4</title>
+    <desc lang="el">Owen is conflicted when his brother Robert asks him for help.(n)</desc>
+  </programme>
+  <programme start="20250118062000 +0000" stop="20250118071000 +0000" channel="FOX HD">
+    <title lang="el">9-1-1: Lone Star 4</title>
+    <desc lang="el">As T.K. and Carlos prepare for their wedding day tragedy strikes.(n)</desc>
+  </programme>
+  <programme start="20250118071000 +0000" stop="20250118075500 +0000" channel="FOX HD">
+    <title lang="el">White Collar 1</title>
+    <desc lang="el">When the trail of the Dutchman dead-ends, FBI Agent Peter Burke teams up with con man Neal Caffrey.(n)</desc>
+  </programme>
+  <programme start="20250118075500 +0000" stop="20250118082000 +0000" channel="FOX HD">
+    <title lang="el">The Goldbergs 1</title>
+    <desc lang="el">When Beverly's mother's jewlery goes missing, Adam and his friends search for the missing treasure.(n)</desc>
+  </programme>
+  <programme start="20250118082000 +0000" stop="20250118084000 +0000" channel="FOX HD">
+    <title lang="el">The Goldbergs 1</title>
+    <desc lang="el">As Murray struggles to get Adam interested in hockey, Beverly tries to help Erica prepare for her college entrance exams, but her plans threaten to backfire.(n)</desc>
+  </programme>
+  <programme start="20250118084000 +0000" stop="20250118090500 +0000" channel="FOX HD">
+    <title lang="el">The Goldbergs 1</title>
+    <desc lang="el">As an unwanted new chair puts Murray on the warpath with Beverly, Adam regrets enlisting Barry to help fend off a school bully.(n)</desc>
+  </programme>
+  <programme start="20250118090500 +0000" stop="20250118093000 +0000" channel="FOX HD">
+    <title lang="el">The Simpsons 36</title>
+    <desc lang="el">Οι Σίμπσον εγκλωβίζονται σε μία πτήση με τους πιο απείθαρχους επιβάτες της Αμερικής.(n)</desc>
+  </programme>
+  <programme start="20250118093000 +0000" stop="20250118095000 +0000" channel="FOX HD">
+    <title lang="el">Bob's Burgers 15</title>
+    <desc lang="el">Η Τίνα κι η Λουίζ μπλέκονται σε έναν καβγά που κορυφώνεται με διάφορες περιγραφικές κάρτες συγγνώμης.(n)</desc>
+  </programme>
+  <programme start="20250118095000 +0000" stop="20250118103500 +0000" channel="FOX HD">
+    <title lang="el">Bones 2</title>
+    <desc lang="el">When the bodies of twin teenage boys kidnapped five years earlier are discovered in Pennsylvania, Booth and Brennan find themselves on the trail of the Grave Digger.(n)</desc>
+  </programme>
+  <programme start="20250118103500 +0000" stop="20250118112000 +0000" channel="FOX HD">
+    <title lang="el">Bones 2</title>
+    <desc lang="el">When the headless body of a young man, along with a video camera full of documentary footage, is discovered in the DC-area woods, Brennan and Booth are called in to identify the year-old remains.(n)</desc>
+  </programme>
+  <programme start="20250118112000 +0000" stop="20250118120500 +0000" channel="FOX HD">
+    <title lang="el">Bones 2</title>
+    <desc lang="el">Brennan and Booth investigate an ex-FBI agent's murder.(n)</desc>
+  </programme>
+  <programme start="20250118120500 +0000" stop="20250118125000 +0000" channel="FOX HD">
+    <title lang="el">Bones 2</title>
+    <desc lang="el">When a body is found incinerated in a prison cell, it becomes apparent that Howard Epps has escaped.(n)</desc>
+  </programme>
+  <programme start="20250118125000 +0000" stop="20250118133500 +0000" channel="FOX HD">
+    <title lang="el">Bones 2</title>
+    <desc lang="el">Brennan heads to Florida to investigate the death of a student found inside a dead alligator.(n)</desc>
+  </programme>
+  <programme start="20250118133500 +0000" stop="20250118142500 +0000" channel="FOX HD">
+    <title lang="el">Bones 2</title>
+    <desc lang="el">The team is called to investigate the death of Terence Bancroft, a major donor to the Jeffersonian.(n)</desc>
+  </programme>
+  <programme start="20250118142500 +0000" stop="20250118144500 +0000" channel="FOX HD">
+    <title lang="el">The Goldbergs 1</title>
+    <desc lang="el">Murray intervenes when Adam asks Beverly for help avoiding a national physical fitness test. Barry woos Erica’s French pen pal.(n)</desc>
+  </programme>
+  <programme start="20250118144500 +0000" stop="20250118151000 +0000" channel="FOX HD">
+    <title lang="el">The Goldbergs 1</title>
+    <desc lang="el">To get his little brother his first kiss, Barry hosts a “no parents allowed” birthday party in the basement for Adam – which sparks some surprisingly protective instincts in Erica.(n)</desc>
+  </programme>
+  <programme start="20250118151000 +0000" stop="20250118153000 +0000" channel="FOX HD">
+    <title lang="el">The Goldbergs 1</title>
+    <desc lang="el">The family rallies to help Erica when she’s dumped by her boyfriend. Barry battles his addiction to an arcade game.(n)</desc>
+  </programme>
+  <programme start="20250118153000 +0000" stop="20250118155500 +0000" channel="FOX HD">
+    <title lang="el">The Goldbergs 1</title>
+    <desc lang="el">Murray coaches Barry for his first high school wrestling match while keeping it a secret from Beverly. Adam blackmails Erica to wait in line for opening night of the new Stars Wars movie.(n)</desc>
+  </programme>
+  <programme start="20250118155500 +0000" stop="20250118161500 +0000" channel="FOX HD">
+    <title lang="el">The Goldbergs 1</title>
+    <desc lang="el">While Murray is being honored by his high school for his basketball prowess, Barry takes advantage of his parents’ absence to throw a blowout party at home.(n)</desc>
+  </programme>
+  <programme start="20250118161500 +0000" stop="20250118164000 +0000" channel="FOX HD">
+    <title lang="el">The Goldbergs 2</title>
+    <desc lang="el">Adam takes the next step in his blossoming relationship with Dana by creating a mix tape for her, but the tape falls into Beverly's hands instead.(n)</desc>
+  </programme>
+  <programme start="20250118164000 +0000" stop="20250118170000 +0000" channel="FOX HD">
+    <title lang="el">The Office 7</title>
+    <desc lang="el">More than money is at stake as Michael helps charm people into investing in Ryan's internet company.(n)</desc>
+  </programme>
+  <programme start="20250118170000 +0000" stop="20250118172500 +0000" channel="FOX HD">
+    <title lang="el">The Office 7</title>
+    <desc lang="el">After reading an article about China growing as a global power, Michael decides China must be stopped before they take over the US.(n)</desc>
+  </programme>
+  <programme start="20250118172500 +0000" stop="20250118175000 +0000" channel="FOX HD">
+    <title lang="el">The Office 7</title>
+    <desc lang="el">This year, Pam is in charge of the Christmas party and it’s the least dramatic and best holiday party in the office yet.(n)</desc>
+  </programme>
+  <programme start="20250118175000 +0000" stop="20250118181000 +0000" channel="FOX HD">
+    <title lang="el">The Office 7</title>
+    <desc lang="el">Michael could not be happier when Toby has to take a leave of absence and corporate sends Holly Flax to cover for him.(n)</desc>
+  </programme>
+  <programme start="20250118181000 +0000" stop="20250118183500 +0000" channel="FOX HD">
+    <title lang="el">The Office 7</title>
+    <desc lang="el">Michael prepares himself for the good or bad news about Holly and her boyfriend.(n)</desc>
+  </programme>
+  <programme start="20250118183500 +0000" stop="20250118190000 +0000" channel="FOX HD">
+    <title lang="el">The Office 7</title>
+    <desc lang="el">With Andy’s sales at his lowest ever, he gets desperate and holds a small business seminar with the help of some special guests.(n)</desc>
+  </programme>
+  <programme start="20250118190000 +0000" stop="20250118192500 +0000" channel="FOX HD">
+    <title lang="el">The Simpsons 36</title>
+    <desc lang="el">Οι Σίμπσον εγκλωβίζονται σε μία πτήση με τους πιο απείθαρχους επιβάτες της Αμερικής.(n)</desc>
+  </programme>
+  <programme start="20250118192500 +0000" stop="20250118195000 +0000" channel="FOX HD">
+    <title lang="el">Bob's Burgers 15</title>
+    <desc lang="el">Η Τίνα κι η Λουίζ μπλέκονται σε έναν καβγά που κορυφώνεται με διάφορες περιγραφικές κάρτες συγγνώμης.(n)</desc>
+  </programme>
+  <programme start="20250118195000 +0000" stop="20250118204500 +0000" channel="FOX HD">
+    <title lang="el">Criminal Minds: Evolution</title>
+    <desc lang="el">The Gold Star saga comes to a riveting end as the final member is revealed.(n)</desc>
+  </programme>
+  <programme start="20250118204500 +0000" stop="20250118213500 +0000" channel="FOX HD">
+    <title lang="el">Chicago P.D. 12</title>
+    <desc lang="el">In the midst of a momentous rainstorm, Intelligence lends support to Officer Cook when she and her partner disagree about an investigation.(n)</desc>
+  </programme>
+  <programme start="20250118213500 +0000" stop="20250118222000 +0000" channel="FOX HD">
+    <title lang="el">9-1-1: Lone Star 5</title>
+    <desc lang="el">The 126 are called to action when a train derailment injures multiple victims.(n)</desc>
+  </programme>
+  <programme start="20250118222000 +0000" stop="20250118224000 +0000" channel="FOX HD">
+    <title lang="el">Brooklyn Nine-Nine 6</title>
+    <desc lang="el">Holt and Jake investigate a case at Kevin’s university. Back at the precinct, Terry and Amy take the squad out for lunch.(n)</desc>
+  </programme>
+  <programme start="20250118224000 +0000" stop="20250118230500 +0000" channel="FOX HD">
+    <title lang="el">Brooklyn Nine-Nine 6</title>
+    <desc lang="el">In an episode that takes place in real time, Jake and the squad must track down a hacker who has infiltrated the Nine-Nine's servers.(n)</desc>
+  </programme>
+  <programme start="20250118230500 +0000" stop="20250118232500 +0000" channel="FOX HD">
+    <title lang="el">Brooklyn Nine-Nine 6</title>
+    <desc lang="el">When Gina returns to the Nine-Nine, Jake and Terry get drawn into her life. Holt learns that Charles’s son, Nikolaj, may be a genius. Rosa copes with an injury.(n)</desc>
+  </programme>
+  <programme start="20250118232500 +0000" stop="20250118234500 +0000" channel="FOX HD">
+    <title lang="el">Brooklyn Nine-Nine 6</title>
+    <desc lang="el">In order to distract Terry from the stress of his upcoming lieutenant’s exam, Jake, Holt and the squad decide to hold the annual Halloween Heist on a new date, Cinco de Mayo.(n)</desc>
+  </programme>
+  <programme start="20250118234500 +0000" stop="20250119005500 +0000" channel="FOX HD">
+    <title lang="el">Under the Banner of Heaven 1</title>
+    <desc lang="el">The investigation uncovers more ominous questions than answers.(n)</desc>
+  </programme>
+  <programme start="20250118031000 +0000" stop="20250118040000 +0000" channel="FoxLife HD">
+    <title lang="el">Castle 5</title>
+    <desc lang="el">In the first of a two-episode story arc, Castle &amp; Beckett begin a murder investigation that also exposes a plot to kidnap the daughter of a wealthy Middle Eastern businessman.(n)</desc>
+  </programme>
+  <programme start="20250118040000 +0000" stop="20250118044500 +0000" channel="FoxLife HD">
+    <title lang="el">Transplant 3</title>
+    <desc lang="el">While looking for answers, Bash finds challenges on new terrain.(n)</desc>
+  </programme>
+  <programme start="20250118044500 +0000" stop="20250118053000 +0000" channel="FoxLife HD">
+    <title lang="el">Transplant 3</title>
+    <desc lang="el">In the wake of a shocking incident, the doctors at York Memorial need to rally. Meanwhile Bash is thrown into an unexpected public health crisis.(n)</desc>
+  </programme>
+  <programme start="20250118053000 +0000" stop="20250118062000 +0000" channel="FoxLife HD">
+    <title lang="el">Transplant 3</title>
+    <desc lang="el">When Bash returns from overseas, nothing is how he left it.(n)</desc>
+  </programme>
+  <programme start="20250118062000 +0000" stop="20250118070500 +0000" channel="FoxLife HD">
+    <title lang="el">Transplant 4</title>
+    <desc lang="el">Bash and Mags team up to save a John and Jane Doe found in the woods.A fully qualified surgeon now, June sees her old mentor in a new light.(n)</desc>
+  </programme>
+  <programme start="20250118070500 +0000" stop="20250118075000 +0000" channel="FoxLife HD">
+    <title lang="el">Transplant 4</title>
+    <desc lang="el">Bash jumps into a sinkhole to save a trapped pedestrian. Mags faces a difficult personal choice, while attempting to contain a potential outbreak in the Emergency Department.(n)</desc>
+  </programme>
+  <programme start="20250118075000 +0000" stop="20250118083500 +0000" channel="FoxLife HD">
+    <title lang="el">Castle 5</title>
+    <desc lang="el">When an up and coming DJ is killed at a pop star's album release party, Beckett and Castle must dive into the raucous world of New York's music industry.(n)</desc>
+  </programme>
+  <programme start="20250118083500 +0000" stop="20250118091500 +0000" channel="FoxLife HD">
+    <title lang="el">Castle 5</title>
+    <desc lang="el">Castle and Beckett enter the world of adult entertainment when the founder of college girls gone crazy is murdered.(n)</desc>
+  </programme>
+  <programme start="20250118091500 +0000" stop="20250118094000 +0000" channel="FoxLife HD">
+    <title lang="el">Modern Family: Season 5</title>
+    <desc lang="el">It’s the last game of the football season, and Cam is determined to become the first rookie coach in the school’s history to win more than two games.(n)</desc>
+  </programme>
+  <programme start="20250118094000 +0000" stop="20250118100500 +0000" channel="FoxLife HD">
+    <title lang="el">Modern Family: Season 5</title>
+    <desc lang="el">Jay takes Manny out to cut down their own Christmas tree, and Gloria is on edge with mom in town, but changes her tune when she sees her bonding with Claire.(n)</desc>
+  </programme>
+  <programme start="20250118100500 +0000" stop="20250118102500 +0000" channel="FoxLife HD">
+    <title lang="el">Modern Family: Season 5</title>
+    <desc lang="el">Phil tricks Luke into taking a dance class, but the joke's on him when the white lie indirectly lands him in the slammer.(n)</desc>
+  </programme>
+  <programme start="20250118102500 +0000" stop="20250118105000 +0000" channel="FoxLife HD">
+    <title lang="el">Modern Family: Season 5</title>
+    <desc lang="el">The high school open house puts the parents in a bit of a time warp when Claire finds herself stressed out by all the pressure, Gloria encounters a "mean girl" mom and Jay teaches Phil how to play a little hookie.(n)</desc>
+  </programme>
+  <programme start="20250118105000 +0000" stop="20250118111500 +0000" channel="FoxLife HD">
+    <title lang="el">Modern Family: Season 5</title>
+    <desc lang="el">Phil and Claire take Haley out to dinner to discuss her future, but Haley manages to turn the tables.(n)</desc>
+  </programme>
+  <programme start="20250118111500 +0000" stop="20250118113500 +0000" channel="FoxLife HD">
+    <title lang="el">Modern Family: Season 5</title>
+    <desc lang="el">It seems that everyone in the family’s got a secret. Haley has a college photography exhibit that she’s being particularly evasive about, and Claire enlists Alex’s help to find out what she’s hiding.(n)</desc>
+  </programme>
+  <programme start="20250118113500 +0000" stop="20250118115500 +0000" channel="FoxLife HD">
+    <title lang="el">Modern Family: Season 5</title>
+    <desc lang="el">Phil’s old nemesis, Gil Thorpe, strikes again when he unseats Phil as the social chair of their local realtors' association.(n)</desc>
+  </programme>
+  <programme start="20250118115500 +0000" stop="20250118122000 +0000" channel="FoxLife HD">
+    <title lang="el">Modern Family: Season 5</title>
+    <desc lang="el">Phil excitedly plans for the annual Realtor’s banquet where he is serving as host for an unprecedented third time!(n)</desc>
+  </programme>
+  <programme start="20250118122000 +0000" stop="20250118124000 +0000" channel="FoxLife HD">
+    <title lang="el">Modern Family: Season 5</title>
+    <desc lang="el">All the adults have swapped kids for the day. Claire and Gloria have been tasked with finding Lily the perfect flower girl dress, but it soon becomes evident that the only one interested in shopping is Gloria.(n)</desc>
+  </programme>
+  <programme start="20250118124000 +0000" stop="20250118130500 +0000" channel="FoxLife HD">
+    <title lang="el">Modern Family: Season 5</title>
+    <desc lang="el">The adults are Vegas bound when Jay hooks them up with “Excelsior Level” hotel accommodations courtesy of one of his big clients, but after learning there's an even higher level, Jay becomes obsessed with upgrading.(n)</desc>
+  </programme>
+  <programme start="20250118130500 +0000" stop="20250118135000 +0000" channel="FoxLife HD">
+    <title lang="el">Chicago Fire 13</title>
+    <desc lang="el">After Damon disobeys Kidd's orders on a call, he turns to Severide to protect him.(n)</desc>
+  </programme>
+  <programme start="20250118135000 +0000" stop="20250118143000 +0000" channel="FoxLife HD">
+    <title lang="el">Chicago Med 10</title>
+    <desc lang="el">Lenox continues to rankle Archer as the two tackle their new roles. Ripley faces possible suspension over what really happened to Pawel.(n)</desc>
+  </programme>
+  <programme start="20250118143000 +0000" stop="20250118152000 +0000" channel="FoxLife HD">
+    <title lang="el">Blue Bloods 14</title>
+    <desc lang="el">The Reagans’ professional lives converge when an allegation of jury tampering against Erin intertwines with Danny and Baez’s homicide case and Eddie’s bond to a child murder witness.(n)</desc>
+  </programme>
+  <programme start="20250118152000 +0000" stop="20250118160000 +0000" channel="FoxLife HD">
+    <title lang="el">Chicago Fire 12</title>
+    <desc lang="el">Severide, Kidd and Van Meter investigate a fire at a recording studio. Kylie helps James keep a secret from Boden. Mouch struggles to maintain boundaries with a paramedicine client.(n)</desc>
+  </programme>
+  <programme start="20250118160000 +0000" stop="20250118164500 +0000" channel="FoxLife HD">
+    <title lang="el">Chicago Fire 12</title>
+    <desc lang="el">Severide steps in as ranking officer at 51. Kidd fights to save her Girls on Fire program. Cruz’s family is threatened when someone from Javi’s past resurfaces.(n)</desc>
+  </programme>
+  <programme start="20250118164500 +0000" stop="20250118173000 +0000" channel="FoxLife HD">
+    <title lang="el">Chicago Fire 12</title>
+    <desc lang="el">Severide goes for an unexpected ride on Truck 81. Ritter’s worlds collide when his secret cop boyfriend helps 51 track down Severide and the missing rig.(n)</desc>
+  </programme>
+  <programme start="20250118173000 +0000" stop="20250118181500 +0000" channel="FoxLife HD">
+    <title lang="el">Chicago Fire 12</title>
+    <desc lang="el">Severide and Violet risk clashing with Paramedic Chief Robinson after Lennox makes a dangerous decision on a call. Capp and Tony attempt to break a world record.(n)</desc>
+  </programme>
+  <programme start="20250118181500 +0000" stop="20250118190000 +0000" channel="FoxLife HD">
+    <title lang="el">Chicago Fire 12</title>
+    <desc lang="el">Boden makes a decision that impacts the race for Deputy Commissioner. A tense call brings up painful memories for Carver and Damon. Mouch struggles to adjust to the new Truck.(n)</desc>
+  </programme>
+  <programme start="20250118190000 +0000" stop="20250118194500 +0000" channel="FoxLife HD">
+    <title lang="el">Chicago Med 10</title>
+    <desc lang="el">Lenox continues to rankle Archer as the two tackle their new roles. Ripley faces possible suspension over what really happened to Pawel.(n)</desc>
+  </programme>
+  <programme start="20250118194500 +0000" stop="20250118203000 +0000" channel="FoxLife HD">
+    <title lang="el">Chicago Fire 13</title>
+    <desc lang="el">After Damon disobeys Kidd's orders on a call, he turns to Severide to protect him.(n)</desc>
+  </programme>
+  <programme start="20250118203000 +0000" stop="20250118211500 +0000" channel="FoxLife HD">
+    <title lang="el">Blue Bloods 14</title>
+    <desc lang="el">The Reagans’ professional lives converge when an allegation of jury tampering against Erin intertwines with Danny and Baez’s homicide case and Eddie’s bond to a child murder witness.(n)</desc>
+  </programme>
+  <programme start="20250118211500 +0000" stop="20250118220500 +0000" channel="FoxLife HD">
+    <title lang="el">Transplant 3</title>
+    <desc lang="el">While looking for answers, Bash finds challenges on new terrain.(n)</desc>
+  </programme>
+  <programme start="20250118220500 +0000" stop="20250118225000 +0000" channel="FoxLife HD">
+    <title lang="el">Transplant 3</title>
+    <desc lang="el">In the wake of a shocking incident, the doctors at York Memorial need to rally. Meanwhile Bash is thrown into an unexpected public health crisis.(n)</desc>
+  </programme>
+  <programme start="20250118225000 +0000" stop="20250118231500 +0000" channel="FoxLife HD">
+    <title lang="el">The King of Queens</title>
+    <desc lang="el">Doug gets paired with a new trainee, whom he's attracted to and is afraid to tell Carrie about. As always, Carrie finds out, but doesn't care because she thinks of Doug as `nice'.(n)</desc>
+  </programme>
+  <programme start="20250118231500 +0000" stop="20250118234000 +0000" channel="FoxLife HD">
+    <title lang="el">The King of Queens</title>
+    <desc lang="el">Doug arrives at a cocktail party put on by Carrie's boss having not eaten anything all day. He embarrasses her at the elegant event that was intended to impress a client.(n)</desc>
+  </programme>
+  <programme start="20250118234000 +0000" stop="20250119000500 +0000" channel="FoxLife HD">
+    <title lang="el">The King of Queens</title>
+    <desc lang="el">Carrie becomes upset when she learns Doug invited the Sacksky's over, but she learns the couple is divorcing.(n)</desc>
+  </programme>
+  <programme start="20250118050500 +0000" stop="20250118070500 +0000" channel="Cablenet Cinema">
+    <title lang="el">The Re-Education Of Molly Singer</title>
+    <desc lang="el">Για να μη χάσει τη δουλειά της, η Μόλι αναγκάζεται να επιστρέψει στο πανεπιστήμιο, να γίνει φίλη με τον κοινωνικά αδέξιο γιο της αφεντικίνας της και να καταφέρει να τον μετατρέψει στον πιο δημοφιλή φοιτητή. Κωμωδία παραγωγής 2023 σε σκηνοθεσία Άντι Πάλμερ με τους: Μπριτ Ρόμπερτσον, Τάι Σίμπκινς, Νίκο Σάντος, Τζέιμι Πρέσλι.(n)</desc>
+  </programme>
+  <programme start="20250118070500 +0000" stop="20250118083000 +0000" channel="Cablenet Cinema">
+    <title lang="el">The Adventures Of Jurassic Pet 2: The Lost Secret</title>
+    <desc lang="el">Η Γουέντι εκμυστηρεύεται στον φίλο της Κέρτις ένα μυστικό: αυτή και η γιαγιά της είναι οι προστάτες μιας μαγικής πόρτας που οδηγεί στη γη των δεινοσαύρων. Όταν ένα μωρό δεινόσαυρος κινδυνεύει, η Γουέντι κι ο Κέρτις πρέπει να τον προστατεύσουν. Περιπέτεια παραγωγής 2023 σε σκηνοθεσία Ράιαν Μπέλγκαρντ &amp; Κρις Χόιτ με τους: Σόφι Πρόκτορ, Μάιλς Κάριν-Μουρ, Ταντρίνα Γκριν, Ντρου Πόλοκ.(n)</desc>
+  </programme>
+  <programme start="20250118083000 +0000" stop="20250118100000 +0000" channel="Cablenet Cinema">
+    <title lang="el">Reporting For Christmas</title>
+    <desc lang="el">Η Μαίρη είναι μια ιδεαλίστρια δημοσιογράφος που πρέπει να γράψει ένα χριστουγεννιάτικο άρθρο για παιχνίδια. Ένας γοητευτικός κατασκευαστής παιχνιδιών την εμπνέει να ψάξει μέσα της για την πραγματική ευτυχία. Ρομαντική ταινία παραγωγής 2022 σε σκηνοθεσία Τζακ Σ. Νιούελ με τους: Ταμάρα Φέλντμαν, Ματ Τριντό, Ντι Μπι Σουίνι, Κέλβιν Τζον Ντέιβις.(n)</desc>
+  </programme>
+  <programme start="20250118100000 +0000" stop="20250118130000 +0000" channel="Cablenet Cinema">
+    <title lang="el">Sieranevada</title>
+    <desc lang="el">Σαράντα μέρες μετά τον θάνατο του πατέρα του, ο σαραντάρης γιατρός Λάρι επισκέπτεται τους δικούς του για το μνημόσυνο. Αντιμέτωπος με την οικογένειά του, αναγκάζεται να έρθει επίσης αντιμέτωπος με τους φόβους και το παρελθόν του. Δραματική κωμωδία παραγωγής 2016 σε σκηνοθεσία Κρίστι Πουίου με τους: Μίμι Μπρανέσκου, Καταλίνα Μόγκα, Τατιάνα Ιέκελ, Τζούντιθ Στέιτ.(n)</desc>
+  </programme>
+  <programme start="20250118130000 +0000" stop="20250118150000 +0000" channel="Cablenet Cinema">
+    <title lang="el">American Wrestler: The Wizard</title>
+    <desc lang="el">Ο 17χρονος Άλι Τζαχάνι εγκαθίσταται σε μια μικρή πόλη της Καλιφόρνια όπου ξεχωρίζει ως διαφορετικός και αντιμετωπίζεται ως ανεπιθύμητος. Νοιώθοντας από παντού την απόρριψη, αλλά αποφασισμένος να ενταχθεί, εγγράφεται στην ομάδα πάλης του σχολείου του. Δράμα παραγωγής 2017 σε σκηνοθεσία Άλεξ Ραναριβέλο με τους: Τζορτζ Κοστούρος, Τζον Βόιτ, Γουίλιαμ Φίτστνερ, Λία Μαρί Τζόνσον.(n)</desc>
+  </programme>
+  <programme start="20250118150000 +0000" stop="20250118171000 +0000" channel="Cablenet Cinema">
+    <title lang="el">The Fault in Our Stars</title>
+    <desc lang="el">Ταινία.(n)</desc>
+  </programme>
+  <programme start="20250118171000 +0000" stop="20250118191500 +0000" channel="Cablenet Cinema">
+    <title lang="el">Pride</title>
+    <desc lang="el">Καλοκαίρι 1984. Η Θάτσερ είναι στην εξουσία και οι ανθρακωρύχοι σε απεργία. Μια ομάδα γκέι ακτιβιστών του Λονδίνου, μετά που έχουν συγκεντρώσει χρήματα για τις οικογένειες των απεργών, ταξιδεύουν σε ένα χωριό στην Ουαλία για να τα παραδώσουν... Δραματική κομεντί παραγωγής 2014 σε σκηνοθεσία Μάθιου Γουόρκους με τους: Μπιλ Νάι, Ιμέλντα Στάντον, Ντομινίκ Γουέστ, Πάντι Κονσιντάιν.(n)</desc>
+  </programme>
+  <programme start="20250118191500 +0000" stop="20250118211500 +0000" channel="Cablenet Cinema">
+    <title lang="el">Break</title>
+    <desc lang="el">Ο Σπένσερ, ένας χαρισματικός παίχτης μπιλιάρδου, χαραμίζει το ταλέντο του ενδίδοντας σε μικρο-παρανομίες. Όταν η κατάσταση βγαίνει εκτός ελέγχου, αναζητά καταφύγιο στο μόνο μέρος όπου νοιώθει ασφαλής: τη σάλα μπιλιάρδου. Δράμα παραγωγής 2020 σε σκηνοθεσία Μάικλ Έλκιν με τους: Σαμ Γκίτινς, Ράτγκερ Χάουερ, Τζέιμι Φόρμαν, Ντέιβιντ Γιπ.(n)</desc>
+  </programme>
+  <programme start="20250118211500 +0000" stop="20250118230000 +0000" channel="Cablenet Cinema">
+    <title lang="el">Christmas Comes Home</title>
+    <desc lang="el">Με τη βοήθεια του παιδικού της έρωτα, η Άμπι ανακαλύπτει ξανά το πνεύμα των Χριστουγέννων, συμμετέχοντας στο χριστουγεννιάτικο πανηγύρι που γίνεται στην πόλη της. Ρομαντική ταινία παραγωγής 2020 σε σκηνοθεσία Σάντρα Λ. Μάρτιν με τους: Μέγκαν Κάιζερ, Ζέιν Στίβενς, Μπράισον Τζον Στιλ, Μάξι ΜακΚλίντοκ.(n)</desc>
+  </programme>
+  <programme start="20250118230000 +0000" stop="20250119010000 +0000" channel="Cablenet Cinema">
+    <title lang="el">I Can Only Imagine</title>
+    <desc lang="el">Έχοντας γνωρίσει την κακοποίηση από τον πατέρα του, ο Μπαρτ Μίλαρντ φεύγει από το σπίτι για να ακολουθήσει καριέρα στη μουσική. Μετά από κάποιες αποτυχημένες προσπάθειες, αντιλαμβάνεται ότι δεν θα πετύχει ποτέ εκτός κι αν διορθώσει τη ζωή που άφησε πίσω, κι έτσι επιστρέφει για να φτιάξει τη σχέση με τον πατέρα του. Δράμα παραγωγής 2018 σε σκηνοθεσία Άντριου και Τζον Έργουιν με τους: Τζέι Μάικλ Φίνλι, Ντένις Κουέιντ, Μαντλίν Κάρολ, Τρέις Άντκινς.(n)</desc>
+  </programme>
+  <programme start="20250118055000 +0000" stop="20250118073000 +0000" channel="Novacinema1HD">
+    <title lang="el">Le Parfum Vert</title>
+    <desc lang="el">After witnessing a murder on stage, an actor is drawn into a thrilling investigation across Europe, uncovering secrets and hidden conspiracies that challenge his perception of reality. (Sandrine Kiberlain, Arieh Worthalter) 2022, 101'.(n)</desc>
+  </programme>
+  <programme start="20250118073000 +0000" stop="20250118091500 +0000" channel="Novacinema1HD">
+    <title lang="el">Back to the Future II</title>
+    <desc lang="el">Professor Brown and young Marti go to the future, in the year 2015 in order to distort the future of the McFly family. However, certain unexpected events force them to return back to 1955! (Michael J. Fox, Christopher Lloyd) 1989, 108'.(n)</desc>
+  </programme>
+  <programme start="20250118091500 +0000" stop="20250118105000 +0000" channel="Novacinema1HD">
+    <title lang="el">Happy Gilmore</title>
+    <desc lang="el">After failing in the hockey team, Happy Gilmore is forced to take up the noble sport of golf to make some money to pay off his grandmother's debts and save her house! (Adam Sandler, Christopher McDonald) 1996, 89'.(n)</desc>
+  </programme>
+  <programme start="20250118105000 +0000" stop="20250118122000 +0000" channel="Novacinema1HD">
+    <title lang="el">Trolls Band Together</title>
+    <desc lang="el">Poppy and Branch are officially a couple now, and as they get closer, Popi discovers his secret past, and joins him in new adventures! (Voices: Fivos Rimenas, Pinelopi Skalkotou) 2023, 88'.(n)</desc>
+  </programme>
+  <programme start="20250118122000 +0000" stop="20250118142000 +0000" channel="Novacinema1HD">
+    <title lang="el">Hive</title>
+    <desc lang="el">With her husband missing since the war in Kosovo, Fahrije starts a small agricultural business to support her family, against a hostile society that longs to see her fail. (Yllka Gashi, Aurita Agushi) 2021, 81'.(n)</desc>
+  </programme>
+  <programme start="20250118142000 +0000" stop="20250118155500 +0000" channel="Novacinema1HD">
+    <title lang="el">Eo</title>
+    <desc lang="el">A donkey wanders through the landscapes of modern Europe, experiencing human kindness and cruelty alike, as it embarks on an unpredictable journey full of both beauty and brutality. (Tomasz Organek, Sandra Drzymalska) 2022, 100'.(n)</desc>
+  </programme>
+  <programme start="20250118155500 +0000" stop="20250118174000 +0000" channel="Novacinema1HD">
+    <title lang="el">Camp Hideout</title>
+    <desc lang="el">A troubled teen escapes to a summer camp to hide from his past. As he bonds with new friends, he learns valuable life lessons and discovers the true meaning of family and friendship. (Christopher Lloyd, Joshua Childs) 2023, 96'.(n)</desc>
+  </programme>
+  <programme start="20250118174000 +0000" stop="20250118200000 +0000" channel="Novacinema1HD">
+    <title lang="el">The Taking Of Pelham 123</title>
+    <desc lang="el">Armed men occupy a subway train, asking for ransom to liberate the hostages. The dispatcher watching that line has to make all the negotiations, as the incident takes place on his shift. (John Travolta, Denzel Washington) 2009, 102'.(n)</desc>
+  </programme>
+  <programme start="20250118200000 +0000" stop="20250118214500 +0000" channel="Novacinema1HD">
+    <title lang="el">Boudica</title>
+    <desc lang="el">A fearless queen rises to lead her people in a rebellion against Roman oppression, igniting a fierce battle for freedom and justice in ancient Britain. (Olga Kurylenko, Andy Beckwith) 2023, 97'.(n)</desc>
+  </programme>
+  <programme start="20250118214500 +0000" stop="20250118234500 +0000" channel="Novacinema1HD">
+    <title lang="el">Bad Boys: Ride or Die</title>
+    <desc lang="el">Detectives Mike and Marcus uncover a conspiracy framing their late captain for cartel ties, leading them on a perilous mission to clear his name and confront hidden enemies. (Will Smith, Ioan Gruffudd) 2024, 112'.(n)</desc>
+  </programme>
+  <programme start="20250118234500 +0000" stop="20250119012000 +0000" channel="Novacinema1HD">
+    <title lang="el">Down Low</title>
+    <desc lang="el">During a mad night, full of unexpected situations, events and acquaintances, a middle aged man attempts to discover and experience the most of a completely unknown world... (Zachary Quinto, Judith Light) 2023, 91'.(n)</desc>
+  </programme>
+</tv>
